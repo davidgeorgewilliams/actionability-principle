@@ -5,6 +5,11 @@
 ## The Mythology of a Mystery
 
 * [The Birth of a False Enigma](the-mythology-of-a-mystery/the-birth-of-a-false-enigma.md)
+* [Act I: The Classical Mystification](the-mythology-of-a-mystery/act-i-the-classical-mystification.md)
+* [Act II: The Mystification Engine](the-mythology-of-a-mystery/act-ii-the-mystification-engine.md)
+* [Act III: The Great Dispersal](the-mythology-of-a-mystery/act-iii-the-great-dispersal.md)
+* [Act IV: The Institutionalization of Mystery](the-mythology-of-a-mystery/act-iv-the-institutionalization-of-mystery.md)
+* [The Psychology of Mystery-Making](the-mythology-of-a-mystery/the-psychology-of-mystery-making.md)
 
 ## Understanding Isn't Understanding
 
