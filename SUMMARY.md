@@ -10,6 +10,10 @@
 * [Act III: The Great Dispersal](the-mythology-of-a-mystery/act-iii-the-great-dispersal.md)
 * [Act IV: The Institutionalization of Mystery](the-mythology-of-a-mystery/act-iv-the-institutionalization-of-mystery.md)
 * [The Psychology of Mystery-Making](the-mythology-of-a-mystery/the-psychology-of-mystery-making.md)
+* [The Cultural Maintenance of Mystery](the-mythology-of-a-mystery/the-cultural-maintenance-of-mystery.md)
+* [The Telltale Signs of Mythology](the-mythology-of-a-mystery/the-telltale-signs-of-mythology.md)
+* [The Cost of Mythology](the-mythology-of-a-mystery/the-cost-of-mythology.md)
+* [The Moment Before Revolution](the-mythology-of-a-mystery/the-moment-before-revolution.md)
 
 ## Understanding Isn't Understanding
 
