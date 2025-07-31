@@ -4,7 +4,7 @@
 
 ## The Mythology of a Mystery
 
-* [Page 8](the-mythology-of-a-mystery/page-8.md)
+* [The Birth of a False Enigma](the-mythology-of-a-mystery/the-birth-of-a-false-enigma.md)
 
 ## Understanding Isn't Understanding
 
