@@ -15,14 +15,14 @@
 * [The Cost of Mythology](the-mythology-of-a-mystery/the-cost-of-mythology.md)
 * [The Moment Before Revolution](the-mythology-of-a-mystery/the-moment-before-revolution.md)
 
-## Understanding Isn't Understanding
+## When Understanding Isn't Understanding
 
-* [The Question That Changes Everything](understanding-isnt-understanding/the-question-that-changes-everything.md)
-* [The Conflation That Created a Century of Confusion](understanding-isnt-understanding/the-conflation-that-created-a-century-of-confusion.md)
-* [The AI "Mystery" That Isn't](understanding-isnt-understanding/the-ai-mystery-that-isnt.md)
-* [The Quantum Measurement Myth](understanding-isnt-understanding/the-quantum-measurement-myth.md)
-* [Emergence: The Gap Between Actionability Frameworks](understanding-isnt-understanding/emergence-the-gap-between-actionability-frameworks.md)
-* [The Promise of This Book](understanding-isnt-understanding/the-promise-of-this-book.md)
+* [The Question That Changes Everything](when-understanding-isnt-understanding/the-question-that-changes-everything.md)
+* [The Conflation That Created a Century of Confusion](when-understanding-isnt-understanding/the-conflation-that-created-a-century-of-confusion.md)
+* [The AI "Mystery" That Isn't](when-understanding-isnt-understanding/the-ai-mystery-that-isnt.md)
+* [The Quantum Measurement Myth](when-understanding-isnt-understanding/the-quantum-measurement-myth.md)
+* [Emergence: The Gap Between Actionability Frameworks](when-understanding-isnt-understanding/emergence-the-gap-between-actionability-frameworks.md)
+* [The Promise of This Book](when-understanding-isnt-understanding/the-promise-of-this-book.md)
 
 ## The Wrong Questions
 
