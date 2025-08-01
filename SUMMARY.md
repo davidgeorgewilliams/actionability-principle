@@ -44,6 +44,10 @@
 
 * [Page 2](unifying-gravity-mind-and-markets/page-2.md)
 
+## The Grand Unified Field Theorem
+
+* [Introduction](the-grand-unified-field-theorem/introduction.md)
+
 ## What We've Been Missing
 
 * [Page 3](what-weve-been-missing/page-3.md)
