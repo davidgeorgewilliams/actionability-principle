@@ -54,6 +54,7 @@
 * [Mathematical Framework](the-grand-unified-field-theorem/mathematical-framework.md)
 * [Experimental Tests and Predictions](the-grand-unified-field-theorem/experimental-tests-and-predictions.md)
 * [Philosophical Implications](the-grand-unified-field-theorem/philosophical-implications.md)
+* [Future Directions](the-grand-unified-field-theorem/future-directions.md)
 
 ## What We've Been Missing
 
