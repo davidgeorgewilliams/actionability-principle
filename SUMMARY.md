@@ -48,6 +48,7 @@
 
 * [Introduction](the-grand-unified-field-theorem/introduction.md)
 * [Foundational Principles](the-grand-unified-field-theorem/foundational-principles.md)
+* [The Energy-Information Master Equation](the-grand-unified-field-theorem/the-energy-information-master-equation.md)
 
 ## What We've Been Missing
 
