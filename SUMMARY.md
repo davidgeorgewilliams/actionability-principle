@@ -26,7 +26,7 @@
 
 ## The Wrong Questions
 
-* [Page 7](the-wrong-questions/page-7.md)
+* [The Quantum Shell Game: How Circular Logic Created Modern Mysticism](the-wrong-questions/the-quantum-shell-game-how-circular-logic-created-modern-mysticism.md)
 
 ## Emergence as Scale Mismatch
 
