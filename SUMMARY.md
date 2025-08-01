@@ -90,6 +90,7 @@
 * [Deriving General Relativity](generating-observable-physics/deriving-general-relativity.md)
 * [Renormalization Group Flow](generating-observable-physics/renormalization-group-flow.md)
 * [The Hierarchy Problem Resolution](generating-observable-physics/the-hierarchy-problem-resolution.md)
+* [The Emergence of Intelligence](generating-observable-physics/the-emergence-of-intelligence.md)
 * [Conclusion](generating-observable-physics/conclusion.md)
 
 ## From Theory to Revolution
