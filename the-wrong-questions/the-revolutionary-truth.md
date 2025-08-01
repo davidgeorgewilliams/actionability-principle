@@ -4,7 +4,9 @@ description: Light Is Just a Wave
 
 # The Revolutionary Truth
 
-Here's what a century of mystification has obscured: light is fundamentally a massless electromagnetic wave propagating through space. Full stop.
+Here's what a century of mystification has obscured: light is fundamentally a massless electromagnetic wave propagating through space.&#x20;
+
+Full stop.
 
 This is actually beautifully simple and explains so much:
 
