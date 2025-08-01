@@ -14,7 +14,7 @@ In natural units where $$\hbar = c = k_B = 1$$:
 
 * $$[\rho]$$: $$Energy^4$$ (energy **density** - energy per volume)
 * $$[\mathbf{j}]$$: $$Energy^4$$ (energy **flux** - energy flow per area per time)
-* $$\kappa$$: $$Energy^{-2}$$ (quantum scale)
+* $$[\kappa]$$: $$Energy^{-2}$$ (quantum scale)
 * $$[V]$$: $$Energy^4$$ (potential scale)
 * $$[\mathcal{R}]$$: $$Energy^4$$ (curvature scale)
 
