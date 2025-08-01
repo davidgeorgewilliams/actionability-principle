@@ -21,7 +21,7 @@
 * [The Conflation That Created a Century of Confusion](when-understanding-isnt-understanding/the-conflation-that-created-a-century-of-confusion.md)
 * [The AI "Mystery" That Isn't](when-understanding-isnt-understanding/the-ai-mystery-that-isnt.md)
 * [The Quantum Measurement Myth](when-understanding-isnt-understanding/the-quantum-measurement-myth.md)
-* [Emergence: The Gap Between Actionability Frameworks](when-understanding-isnt-understanding/emergence-the-gap-between-actionability-frameworks.md)
+* [Emergence is not Mysterious](when-understanding-isnt-understanding/emergence-is-not-mysterious.md)
 * [The Promise of This Book](when-understanding-isnt-understanding/the-promise-of-this-book.md)
 
 ## The Wrong Questions
