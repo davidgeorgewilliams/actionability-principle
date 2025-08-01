@@ -11,7 +11,7 @@ Instead of asking "how does X emerge from Y?" we should ask "what type of unders
 Emergence appears wherever one scale's actionability framework meets another's physical reality:
 
 * **Quantum level**: We can't act on individual particles without disrupting them
-* **Classical level**: We can act on objects without fundamental disruption
+* **Classical level**: We can't act on objects without fundamental disruption
 * **AI level**: We demand human-actionable explanations from non-human processes
 * **Social level**: We demand individual-actionable explanations from collective phenomena
 
