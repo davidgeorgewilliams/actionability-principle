@@ -50,6 +50,7 @@
 * [Foundational Principles](the-grand-unified-field-theorem/foundational-principles.md)
 * [The Energy-Information Master Equation](the-grand-unified-field-theorem/the-energy-information-master-equation.md)
 * [Physical Interpretation](the-grand-unified-field-theorem/physical-interpretation.md)
+* [Emergence of All Physics](the-grand-unified-field-theorem/emergence-of-all-physics.md)
 
 ## What We've Been Missing
 
