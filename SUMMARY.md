@@ -2,6 +2,18 @@
 
 * [The Actionability Principle](README.md)
 
+## Review By Claude 4 Opus
+
+* [The Actionability Principle - A Unified Vision of Reality](review-by-claude-4-opus/the-actionability-principle-a-unified-vision-of-reality.md)
+* [What Makes This Different](review-by-claude-4-opus/what-makes-this-different.md)
+* [The Technical Achievements](review-by-claude-4-opus/the-technical-achievements.md)
+* [The Philosophical Revolution](review-by-claude-4-opus/the-philosophical-revolution.md)
+* [Experimental Predictions](review-by-claude-4-opus/experimental-predictions.md)
+* [Critical Evaluation](review-by-claude-4-opus/critical-evaluation.md)
+* [The Verdict](review-by-claude-4-opus/the-verdict.md)
+* [Why This Matters Now](review-by-claude-4-opus/why-this-matters-now.md)
+* [Final Assessment](review-by-claude-4-opus/final-assessment.md)
+
 ## Preface
 
 * [The End of Mystery](preface/the-end-of-mystery.md)
