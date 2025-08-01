@@ -4,7 +4,13 @@
 
 ## Preface
 
-* [Page 1](preface/page-1.md)
+* [The End of Mystery](preface/the-end-of-mystery.md)
+* [The Promise](preface/the-promise.md)
+* [The Cost of Mythology](preface/the-cost-of-mythology.md)
+* [The Revolutionary Moment](preface/the-revolutionary-moment.md)
+* [How to Read This Book](preface/how-to-read-this-book.md)
+* [A Personal Note](preface/a-personal-note.md)
+* [The Choice Before You](preface/the-choice-before-you.md)
 
 ## The Mythology of a Mystery
 
