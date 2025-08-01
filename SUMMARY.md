@@ -51,6 +51,7 @@
 * [The Energy-Information Master Equation](the-grand-unified-field-theorem/the-energy-information-master-equation.md)
 * [Physical Interpretation](the-grand-unified-field-theorem/physical-interpretation.md)
 * [Emergence of All Physics](the-grand-unified-field-theorem/emergence-of-all-physics.md)
+* [Mathematical Framework](the-grand-unified-field-theorem/mathematical-framework.md)
 
 ## What We've Been Missing
 
