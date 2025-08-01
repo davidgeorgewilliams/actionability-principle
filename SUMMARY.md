@@ -38,12 +38,14 @@
 
 ## Emergence as Scale Mismatch
 
-* [The Master Equation](emergence-as-scale-mismatch/the-master-equation.md)
-* [The Fundamental Insight](emergence-as-scale-mismatch/the-fundamental-insight.md)
+* [Page 2](emergence-as-scale-mismatch/page-2.md)
 
 ## Unifying Gravity, Mind, and Markets
 
-* [Page 2](unifying-gravity-mind-and-markets/page-2.md)
+* [The Master Equation](unifying-gravity-mind-and-markets/the-master-equation.md)
+* [The Fundamental Insight](unifying-gravity-mind-and-markets/the-fundamental-insight.md)
+* [The Master Equation](unifying-gravity-mind-and-markets/the-master-equation-1.md)
+* [Nature's Cost Function](unifying-gravity-mind-and-markets/natures-cost-function.md)
 
 ## The Grand Unified Field Theorem
 
