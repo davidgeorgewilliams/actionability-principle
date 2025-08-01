@@ -1,4 +1,8 @@
-# The Revolutionary Truth: Light Is Just a Wave
+---
+description: Light Is Just a Wave
+---
+
+# The Revolutionary Truth
 
 Here's what a century of mystification has obscured: light is fundamentally a massless electromagnetic wave propagating through space. Full stop.
 

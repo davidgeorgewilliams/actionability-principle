@@ -34,7 +34,7 @@
 * [The Pattern Repeats](the-wrong-questions/the-pattern-repeats.md)
 * [The Cost of Wrong Questions](the-wrong-questions/the-cost-of-wrong-questions.md)
 * [The Revolutionary Alternative](the-wrong-questions/the-revolutionary-alternative.md)
-* [The Revolutionary Truth: Light Is Just a Wave](the-wrong-questions/the-revolutionary-truth-light-is-just-a-wave.md)
+* [The Revolutionary Truth](the-wrong-questions/the-revolutionary-truth.md)
 
 ## Emergence as Scale Mismatch
 
