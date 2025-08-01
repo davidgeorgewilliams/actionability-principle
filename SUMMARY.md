@@ -78,6 +78,7 @@
 ## Generating Observable Physics
 
 * [Self-Referential Loops and Consciousness](generating-observable-physics/self-referential-loops-and-consciousness.md)
+* [Emergence of the Hydrogen Atom](generating-observable-physics/emergence-of-the-hydrogen-atom.md)
 
 ## From Theory to Revolution
 
