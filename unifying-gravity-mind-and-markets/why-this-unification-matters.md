@@ -2,7 +2,9 @@
 
 ### For AI Researchers
 
-Your neural networks are solving the same optimization that governs quantum particles and cosmic evolution. Understanding this connection could lead to:
+Your neural networks are solving the same optimization that governs quantum particles and cosmic evolution.&#x20;
+
+Understanding this connection could lead to:
 
 * **More efficient architectures** inspired by physical principles
 * **Better optimization algorithms** based on natural dynamics
@@ -11,7 +13,9 @@ Your neural networks are solving the same optimization that governs quantum part
 
 ### For Physicists
 
-Complex systems like brains and markets aren't "beyond physics"—they're **extensions** of physics using the same action principle. This opens:
+Complex systems like brains and markets aren't "beyond physics"—they're **extensions** of physics using the same action principle.&#x20;
+
+This opens:
 
 * **New experimental tests** of fundamental theories through complex systems
 * **Computational methods** from AI applied to physical problems
@@ -20,7 +24,9 @@ Complex systems like brains and markets aren't "beyond physics"—they're **exte
 
 ### For Economists
 
-Market dynamics aren't separate from natural law—they're manifestations of the same optimization principle that governs all of nature. This suggests:
+Market dynamics aren't separate from natural law—they're manifestations of the same optimization principle that governs all of nature.&#x20;
+
+This suggests:
 
 * **More robust economic models** grounded in fundamental principles
 * **Better crisis prediction** using techniques from physics and AI
