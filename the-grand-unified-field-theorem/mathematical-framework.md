@@ -85,8 +85,8 @@ From our action, $$κ$$ appears in: $$\frac{\kappa}{2}(\nabla \sqrt{\rho})²$$&#
 
 For the term to have Energy⁴ (to match the action):
 
-* $$[\kappa] \times [\text{Energy}]^6 = [\text{Energy}]^4$$
-* Therefore $$[\kappa] = \textbf{Energy}^{-2}$$
+* $$[\kappa] \times [Energy]^6 = [Energy]^4$$
+* Therefore $$[\kappa] = [Energy]^{-2}$$
 
 #### **4. Potential V and Curvature R**
 
