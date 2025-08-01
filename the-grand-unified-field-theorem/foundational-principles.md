@@ -13,9 +13,9 @@ All physical phenomena arise from the evolution of two real-valued fields:
 
 #### Axiom 3: Universal Action Principle
 
-The evolution of these fields is governed by the principle of stationary action with dissipation:
+The evolution of these fields is governed by the principle of stationary action $$\mathcal{A}$$ with dissipation:
 
-<p align="center"><span class="math">\frac{\delta S}{\delta \rho} = -\Gamma[\rho] \frac{\partial \rho}{\partial T}, \quad \frac{\delta S}{\delta \mathbf{j}} = -\Lambda[\mathbf{j}] \frac{\partial \mathbf{j}}{\partial T}</span>​</p>
+<p align="center"><span class="math">\frac{\delta \mathcal{A}}{\delta \rho} = -\Gamma[\rho] \frac{\partial \rho}{\partial T}, \quad \frac{\delta\mathcal{A}}{\delta \mathbf{j}} = -\Lambda[\mathbf{j}] \frac{\partial \mathbf{j}}{\partial T}</span>​</p>
 
 #### Axiom 4: Scale Invariance
 

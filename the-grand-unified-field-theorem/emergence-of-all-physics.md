@@ -6,11 +6,11 @@
 
 The equations reduce to the **Madelung fluid formulation** of quantum mechanics:
 
-* $$\rho = |\psi|^2$$ (probability density)
-* \$$\mathbf{j} = \frac{\hbar}{2mi}(\psi^\* \nabla \psi - \psi \nabla \psi^\*)\$$ (quantum current)
+* $$\boldsymbol{\rho = \rho(\mathbf{x},t)}$$ (probability density)
+* $$\boldsymbol{\mathbf{j} = \frac{\rho \nabla S}{m}}$$ (quantum current)
 * Schrödinger equation emerges without complex numbers
 
-**Key insight**: Quantum "weirdness" arises from the quantum pressure term κ2(∇ρ)2\frac{\kappa}{2}(\nabla \sqrt{\rho})^2 2κ​(∇ρ​)2.
+**Key insight**: Quantum "weirdness" arises from the quantum pressure term $$\frac{\kappa}{2}(\nabla \sqrt{\rho})^2$$.
 
 ### General Relativity
 
@@ -18,9 +18,9 @@ The equations reduce to the **Madelung fluid formulation** of quantum mechanics:
 
 Spacetime curvature emerges from energy density:
 
-Gμν=8πG⟨Tμν\[ρ,j]⟩G\_{\mu\nu} = 8\pi G \left\langle T\_{\mu\nu}\[\rho, \mathbf{j}] \right\rangleGμν​=8πG⟨Tμν​\[ρ,j]⟩
+<p align="center"><span class="math">G_{\mu\nu} = 8\pi G \left\langle T_{\mu\nu}[\rho, \mathbf{j}] \right\rangle</span></p>
 
-where TμνT\_{\mu\nu} Tμν​ is the stress-energy tensor constructed from ρ\rho ρ and j\mathbf{j} j.
+where $$T_{\mu\nu}$$ is the stress-energy tensor constructed from $$\rho$$ and $$\mathbf{j}$$.
 
 **Key insight**: Gravity is the large-scale manifestation of energy density fluctuations.
 
@@ -30,8 +30,8 @@ where TμνT\_{\mu\nu} Tμν​ is the stress-energy tensor constructed from ρ\
 
 Temperature and entropy emerge from:
 
-* **Temperature**: T=(∂S∂E)−1T = \left(\frac{\partial S}{\partial E}\right)^{-1} T=(∂E∂S​)−1
-* **Entropy**: Sthermal=−∫ρlog⁡ρ dDXS\_{\text{thermal\}} = -\int \rho \log \rho \\, d^D X Sthermal​=−∫ρlogρdDX
+* **Temperature**: $$T = \left(\frac{\partial S}{\partial E}\right)^{-1}$$
+* **Entropy**: $$S_{\text{thermal}} = -\int \rho \log \rho \, d^D X$$&#x20;
 * **Second law**: Built into dissipation terms Γ\[ρ]\Gamma\[\rho] Γ\[ρ] and Λ\[j]\Lambda\[\mathbf{j}] Λ\[j]
 
 ### Particle Physics and Field Theory
