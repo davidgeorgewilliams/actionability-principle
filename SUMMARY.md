@@ -80,6 +80,8 @@
 * [Self-Referential Loops and Consciousness](generating-observable-physics/self-referential-loops-and-consciousness.md)
 * [Emergence of the Hydrogen Atom](generating-observable-physics/emergence-of-the-hydrogen-atom.md)
 * [Emergence of Three Spatial Dimensions](generating-observable-physics/emergence-of-three-spatial-dimensions.md)
+* [Renormalization Group Flow](generating-observable-physics/renormalization-group-flow.md)
+* [Conclusion](generating-observable-physics/conclusion.md)
 
 ## From Theory to Revolution
 
