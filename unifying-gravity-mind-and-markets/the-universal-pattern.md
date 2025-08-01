@@ -25,4 +25,3 @@ Before diving into the mathematics, let's recognize something remarkable: the sa
 
 **The profound realization**: These aren't analogies. They're all manifestations of the same underlying principle.
 
-###

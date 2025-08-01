@@ -38,11 +38,11 @@ In everyday physics, we use different units:
 
 * $$ℏ = 1$$ (quantum mechanics scale)
 * $$c = 1$$ (relativity scale)
-* $$kB = 1$$ (thermodynamics scale)
+* $$k_B = 1$$ (thermodynamics scale)
 
 ### **Why This Simplifies Everything**
 
-When $$ℏ = c = kB = 1$$, we can measure **everything** in terms of **energy**:
+When $$ℏ = c = k_B = 1$$, we can measure **everything** in terms of **energy**:
 
 #### **From the Constants**:
 

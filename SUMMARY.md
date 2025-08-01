@@ -73,14 +73,12 @@
 
 ## From Theory to Revolution
 
-* [Page 5](from-theory-to-revolution/page-5.md)
-
-## Group 1
-
-* [Quickstart](group-1/quickstart.md)
-* [Editor](group-1/editor.md)
-* [Publish your docs](group-1/publish-your-docs.md)
-* [Markdown](group-1/markdown.md)
-* [Interactive blocks](group-1/interactive-blocks.md)
-* [Images & media](group-1/images-and-media.md)
-* [Integrations](group-1/integrations.md)
+* [The End of Mystery, The Beginning of Mastery](from-theory-to-revolution/the-end-of-mystery-the-beginning-of-mastery.md)
+* [The Master Key](from-theory-to-revolution/the-master-key.md)
+* [From Understanding to Engineering](from-theory-to-revolution/from-understanding-to-engineering.md)
+* [The Experimental Path Forward](from-theory-to-revolution/the-experimental-path-forward.md)
+* [The Philosophical Revolution](from-theory-to-revolution/the-philosophical-revolution.md)
+* [The Practical Revolution](from-theory-to-revolution/the-practical-revolution.md)
+* [The Choice Before Us](from-theory-to-revolution/the-choice-before-us.md)
+* [The Revolution Is Now](from-theory-to-revolution/the-revolution-is-now.md)
+* [The Ultimate Vision](from-theory-to-revolution/the-ultimate-vision.md)
