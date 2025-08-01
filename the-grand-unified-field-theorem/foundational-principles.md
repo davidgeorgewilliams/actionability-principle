@@ -2,7 +2,7 @@
 
 #### Axiom 1: Master Space
 
-There exists a $$D$$-dimensional master space with coordinates $$\mathbf{X} = (X^1, X^2, \ldots, X^D)$$ and master time $$T$$, from which our familiar $$3+1$$ dimensional spacetime emerges.
+There exists a $$D$$-dimensional master space with coordinates $$\mathbf{X} = (X^1, X^2, \ldots, X^D)$$ and master time $$T$$, from which our familiar $$3+1D$$ spacetime emerges.
 
 #### Axiom 2: Energy Density Field
 
