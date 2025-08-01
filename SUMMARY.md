@@ -38,7 +38,8 @@
 
 ## Emergence as Scale Mismatch
 
-* [Page 1](emergence-as-scale-mismatch/page-1.md)
+* [The Master Equation](emergence-as-scale-mismatch/the-master-equation.md)
+* [The Fundamental Insight](emergence-as-scale-mismatch/the-fundamental-insight.md)
 
 ## Unifying Gravity, Mind, and Markets
 
@@ -55,14 +56,6 @@
 * [Experimental Tests and Predictions](the-grand-unified-field-theorem/experimental-tests-and-predictions.md)
 * [Philosophical Implications](the-grand-unified-field-theorem/philosophical-implications.md)
 * [Future Directions](the-grand-unified-field-theorem/future-directions.md)
-
-## What We've Been Missing
-
-* [Page 3](what-weve-been-missing/page-3.md)
-
-## Testable Predictions
-
-* [Page 4](testable-predictions/page-4.md)
 
 ## From Theory to Revolution
 
