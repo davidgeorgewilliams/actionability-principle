@@ -1,8 +1,8 @@
 ---
-description: It is the gap between actionability frameworks
+description: It's just the gap between actionability frameworks
 ---
 
-# Emergence is not Mysterious
+# Emergence Is Not Mysterious
 
 This brings us to the Nobel-worthy insight: What if emergence isn't mysterious at all? What if we've just been asking the wrong questions?
 
