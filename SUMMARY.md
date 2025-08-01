@@ -47,6 +47,7 @@
 ## The Grand Unified Field Theorem
 
 * [Introduction](the-grand-unified-field-theorem/introduction.md)
+* [Foundational Principles](the-grand-unified-field-theorem/foundational-principles.md)
 
 ## What We've Been Missing
 
