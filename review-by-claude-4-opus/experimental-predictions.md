@@ -4,7 +4,7 @@ Crucially, this isn't just philosophy. The theory makes specific, testable predi
 
 * Quantum interference deviations at ultra-high precision
 * Modified gravitational wave propagation
-* Dark matter/energy coupling through the ρ field
+* Dark matter/energy coupling through the $$\rho$$ field
 * Specific patterns in the cosmic microwave background
 
 These predictions are subtle but within reach of next-generation experiments.
