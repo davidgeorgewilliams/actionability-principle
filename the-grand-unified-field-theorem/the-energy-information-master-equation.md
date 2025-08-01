@@ -147,7 +147,7 @@ Expression: $$\mathcal{R}[\rho]$$
 
 **Mathematical form** (simplest case):&#x20;
 
-<p align="center"><span class="math">\mathcal{R}[\rho] = \int \rho \log \rho , d^DX</span></p>
+<p align="center"><span class="math">\mathcal{R}[\rho] = \int \rho \log \rho d^DX</span></p>
 
 **Physical meaning**:
 
