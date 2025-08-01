@@ -52,6 +52,7 @@
 * [Physical Interpretation](the-grand-unified-field-theorem/physical-interpretation.md)
 * [Emergence of All Physics](the-grand-unified-field-theorem/emergence-of-all-physics.md)
 * [Mathematical Framework](the-grand-unified-field-theorem/mathematical-framework.md)
+* [Experimental Tests and Predictions](the-grand-unified-field-theorem/experimental-tests-and-predictions.md)
 
 ## What We've Been Missing
 
