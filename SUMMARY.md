@@ -2,6 +2,10 @@
 
 * [The Actionability Principle](README.md)
 
+## Preface
+
+* [Page 1](preface/page-1.md)
+
 ## The Mythology of a Mystery
 
 * [The Birth of a False Enigma](the-mythology-of-a-mystery/the-birth-of-a-false-enigma.md)
@@ -70,6 +74,10 @@
 * [Experimental Tests and Predictions](the-grand-unified-field-theorem/experimental-tests-and-predictions.md)
 * [Philosophical Implications](the-grand-unified-field-theorem/philosophical-implications.md)
 * [Future Directions](the-grand-unified-field-theorem/future-directions.md)
+
+## Generating Observable Physics
+
+* [Self-Referential Loops and Consciousness](generating-observable-physics/self-referential-loops-and-consciousness.md)
 
 ## From Theory to Revolution
 
