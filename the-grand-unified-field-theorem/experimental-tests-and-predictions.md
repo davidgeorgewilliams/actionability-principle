@@ -13,7 +13,7 @@
 #### **2. Gravitational Quantum Effects**
 
 * **What we'd test**: Quantum superposition of massive objects in gravitational fields
-* **Our prediction**: The interplay between ρ\rho ρ (quantum) and spacetime curvature should modify superposition behavior
+* **Our prediction**: The interplay between $$\rho$$ (quantum) and spacetime curvature should modify superposition behavior
 * **Specific signature**: Gravitational decoherence rates different from standard semiclassical gravity
 * **Current experiments**: LIGO-style detection of quantum gravitational effects, optomechanics experiments
 * **Why it matters**: Direct test of how our unified fields $$\rho$$ and $$\mathbf{j}$$ interact with geometry
