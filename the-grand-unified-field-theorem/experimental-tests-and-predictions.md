@@ -47,7 +47,7 @@
 #### **3. Dark Sector Interactions**
 
 * **What we'd test**: Coupling between dark matter and dark energy
-* **Our prediction**: Both emerge from the same ρ\rho ρ field, so they should interact through our action $$\mathcal{A}$$
+* **Our prediction**: Both emerge from the same $$\rho$$ field, so they should interact through our action $$\mathcal{A}$$
 * **Specific signature**: Dark energy density should correlate with dark matter distributions
 * **Current experiments**: Large-scale structure surveys, Type Ia supernovae, cosmic microwave background
 * **Why it matters**: Standard model treats dark matter/energy as separate - we predict they're manifestations of the same field
