@@ -4,7 +4,7 @@
 
 The complete action that generates all of physics is:
 
-<p align="center"><span class="math">S[\rho, \mathbf{j}] = \int d^D X \, dT \, \sqrt{|\det G_{AB}|} \left[ \frac{|\mathbf{j}|^2}{2\rho} + V(\rho) + \frac{\kappa}{2}(\nabla \sqrt{\rho})^2 + \mathcal{R}[\rho] \right]</span>​</p>
+<p align="center"><span class="math">\mathcal{A}[\rho, \mathbf{j}] = \int d^D X \, dT \, \sqrt{|\det G_{AB}|} \left[ \frac{|\mathbf{j}|^2}{2\rho} + V(\rho) + \frac{\kappa}{2}(\nabla \sqrt{\rho})^2 + \mathcal{R}[\rho] \right]</span>​</p>
 
 where:
 
@@ -18,7 +18,7 @@ where:
 
 Taking functional derivatives yields the coupled evolution equations:
 
-<p align="center"><span class="math">\frac{\delta S}{\delta \rho} = -\Gamma[\rho] \frac{\partial \rho}{\partial T}</span><br><br><span class="math">\frac{\delta S}{\delta \mathbf{j}} = -\Lambda[\mathbf{j}] \frac{\partial \mathbf{j}}{\partial T}</span></p>
+<p align="center"><span class="math">\frac{\delta \mathcal{A}}{\delta \rho} = -\Gamma[\rho] \frac{\partial \rho}{\partial T}</span><br><br><span class="math">\frac{\delta \mathcal{A}}{\delta \mathbf{j}} = -\Lambda[\mathbf{j}] \frac{\partial \mathbf{j}}{\partial T}</span></p>
 
 ### Explicit Forms
 
