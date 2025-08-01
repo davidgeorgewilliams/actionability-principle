@@ -81,6 +81,7 @@
 * [Emergence of the Hydrogen Atom](generating-observable-physics/emergence-of-the-hydrogen-atom.md)
 * [Emergence of Three Spatial Dimensions](generating-observable-physics/emergence-of-three-spatial-dimensions.md)
 * [Renormalization Group Flow](generating-observable-physics/renormalization-group-flow.md)
+* [The Hierarchy Problem Resolution](generating-observable-physics/the-hierarchy-problem-resolution.md)
 * [Conclusion](generating-observable-physics/conclusion.md)
 
 ## From Theory to Revolution
