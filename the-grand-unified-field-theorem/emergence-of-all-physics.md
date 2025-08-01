@@ -7,14 +7,21 @@
 The equations reduce to the **Madelung fluid formulation** of quantum mechanics:
 
 * $$\boldsymbol{\rho = \rho(\mathbf{x},t)}$$ (probability density)
-* $$\boldsymbol{\mathbf{j} = \frac{\rho \nabla S}{m}}$$ (quantum current)
-* Schrödinger equation emerges without complex numbers
+* $$\boldsymbol{\mathbf{j} = \mathbf{j}(\mathbf{x},t)}$$ (quantum current - real)
+* $$\boldsymbol{\mathbf{v} = \frac{\mathbf{j}}{\rho}}$$**​** (quantum velocity field)
 
-**Key insight**: Quantum "weirdness" arises from the quantum pressure term $$\frac{\kappa}{2}(\nabla \sqrt{\rho})^2$$.
+The evolution of these two fundamental fields, governed by our action principle $$\mathcal{A}[\rho, \mathbf{j}]$$, reproduces all quantum mechanical behavior including:
+
+* Wave-particle duality
+* Quantum interference
+* Uncertainty principle
+* Tunneling effects
+
+**Key insight**: The Schrödinger equation emerges from purely real-valued flow equations - no complex numbers required.
 
 ### General Relativity
 
-**Limit**: Large scale, geometric terms dominant
+**Limit**: $$\mathcal{R}[\rho]$$ and $$V(\rho)$$ dominant, $$\kappa \rightarrow 0$$, large $$\rho$$ variations
 
 Spacetime curvature emerges from energy density:
 
@@ -26,19 +33,19 @@ where $$T_{\mu\nu}$$ is the stress-energy tensor constructed from $$\rho$$ and $
 
 ### Thermodynamics and Statistical Mechanics
 
-**All scales**: Dissipation terms active
+**Limit**: Dissipation terms $$\Gamma[\rho]$$ and $$\Lambda[\mathbf{j}]$$ dominant, system approaching equilibrium
 
 Temperature and entropy emerge from:
 
-* **Temperature**: $$T = \left(\frac{\partial S}{\partial E}\right)^{-1}$$
-* **Entropy**: $$S_{\text{thermal}} = -\int \rho \log \rho \, d^D X$$&#x20;
-* **Second law**: Built into dissipation terms Γ\[ρ]\Gamma\[\rho] Γ\[ρ] and Λ\[j]\Lambda\[\mathbf{j}] Λ\[j]
+* **Entropy**: $$H_{\text{thermal}} = -\int \rho \log \rho \, d^D X$$ (Shannon entropy of energy distribution)
+* **Temperature**: $$T = \left(\frac{\partial H_{\text{thermal}}}{\partial \mathcal{E}}\right)^{-1}$$ where $$\mathcal{E} = \int \rho \, d^D X$$ (total energy)
+* **Second law**: Built into dissipation terms $$\Gamma[\rho]$$ and $$\Lambda[\mathbf{j}]$$
 
 ### Particle Physics and Field Theory
 
 **Medium scales**: All terms contribute
 
-* **Particles**: Localized soliton solutions of ρ(X,T)\rho(\mathbf{X}, T) ρ(X,T)
-* **Fields**: Extended configurations of ρ\rho ρ and j\mathbf{j} j
-* **Interactions**: Nonlinear terms in V(ρ)V(\rho) V(ρ) and R\[ρ]\mathcal{R}\[\rho] R\[ρ]
-* **Symmetries**: Emerge from invariances of the action S\[ρ,j]S\[\rho, \mathbf{j}] S\[ρ,j]
+* **Particles**: Localized soliton solutions of $$\rho(\mathbf{X}, T)$$
+* **Fields**: Extended configurations of $$\rho$$ and $$\mathbf{j}$$
+* **Interactions**: Nonlinear terms in $$V(\rho)$$ and $$\mathcal{R}[\rho]$$
+* **Symmetries**: Emerge from invariances of the action $$S[\rho, \mathbf{j}]$$
