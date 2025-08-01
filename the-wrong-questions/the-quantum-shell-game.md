@@ -1,4 +1,8 @@
-# The Quantum Shell Game: How Circular Logic Created Modern Mysticism
+---
+description: How Circular Logic Created Modern Mysticism
+---
+
+# The Quantum Shell Game
 
 Consider one of physics' most celebrated "mysteries": wave-particle duality. Light, we're told, sometimes behaves as a wave, sometimes as a particle. When unobserved, it passes through both slits in the famous double-slit experiment. When observed, it "chooses" just one. The observer, apparently, creates reality.
 

@@ -1,4 +1,8 @@
-# The Original Sin: Assuming What We're Trying to Prove
+---
+description: Assuming What We're Trying to Prove
+---
+
+# The Original Sin
 
 The standard narrative goes like this: Light sometimes behaves as a wave, sometimes as a particle. When we don't observe it, it's a wave. When we do observe it, it becomes a particle. Therefore, observation creates reality.
 

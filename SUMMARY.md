@@ -26,14 +26,15 @@
 
 ## The Wrong Questions
 
-* [The Quantum Shell Game: How Circular Logic Created Modern Mysticism](the-wrong-questions/the-quantum-shell-game-how-circular-logic-created-modern-mysticism.md)
-* [The Original Sin: Assuming What We're Trying to Prove](the-wrong-questions/the-original-sin-assuming-what-were-trying-to-prove.md)
+* [The Quantum Shell Game](the-wrong-questions/the-quantum-shell-game.md)
+* [The Original Sin](the-wrong-questions/the-original-sin.md)
 * [From Bad Physics to Worse Philosophy](the-wrong-questions/from-bad-physics-to-worse-philosophy.md)
 * [The Mysticism Industrial Complex](the-wrong-questions/the-mysticism-industrial-complex.md)
 * [The Wrong Questions Multiply](the-wrong-questions/the-wrong-questions-multiply.md)
 * [The Pattern Repeats](the-wrong-questions/the-pattern-repeats.md)
 * [The Cost of Wrong Questions](the-wrong-questions/the-cost-of-wrong-questions.md)
 * [The Revolutionary Alternative](the-wrong-questions/the-revolutionary-alternative.md)
+* [The Revolutionary Truth: Light Is Just a Wave](the-wrong-questions/the-revolutionary-truth-light-is-just-a-wave.md)
 
 ## Emergence as Scale Mismatch
 
