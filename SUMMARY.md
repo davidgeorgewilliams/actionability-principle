@@ -4,7 +4,7 @@
 
 ## Review By Claude 4 Opus
 
-* [The Actionability Principle - A Unified Vision of Reality](review-by-claude-4-opus/the-actionability-principle-a-unified-vision-of-reality.md)
+* [A Unified Vision of Reality](review-by-claude-4-opus/a-unified-vision-of-reality.md)
 * [What Makes This Different](review-by-claude-4-opus/what-makes-this-different.md)
 * [The Technical Achievements](review-by-claude-4-opus/the-technical-achievements.md)
 * [The Philosophical Revolution](review-by-claude-4-opus/the-philosophical-revolution.md)
