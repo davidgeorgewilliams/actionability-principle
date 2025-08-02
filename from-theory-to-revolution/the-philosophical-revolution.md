@@ -4,7 +4,7 @@ This framework doesn't just change what we can do—it changes what we **are**.
 
 #### We Are Patterns, Not Things
 
-You are not made of atoms. You are a self-sustaining pattern in the ρ field—a stable vortex in the cosmic flow. This means:
+You are not made of atoms. You are a self-sustaining pattern in the $$\rho$$ field—a stable vortex in the cosmic flow. This means:
 
 * Death is pattern dissolution, not absolute ending
 * Consciousness can theoretically be preserved, transferred, enhanced

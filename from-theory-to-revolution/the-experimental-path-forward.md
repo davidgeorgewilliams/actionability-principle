@@ -26,7 +26,7 @@ But we don't have to wait decades. The revolution begins now with experiments we
 
 Every experiment, every observation, every measurement now has new meaning. We're not just collecting data—we're mapping the fundamental fields of reality.
 
-* **In Particle Physics**: Every collision reveals ρ and **j** dynamics&#x20;
+* **In Particle Physics**: Every collision reveals $$\rho$$ and $$\mathbf{j}$$ dynamics&#x20;
 * **In Astronomy**: Every observation traces cosmic field evolution
 * **In Neuroscience**: Every brain scan maps consciousness in field space&#x20;
 * **In Economics**: Every transaction reflects field flow patterns
