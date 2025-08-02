@@ -7,7 +7,7 @@
 The equations reduce to the **Madelung fluid formulation** of quantum mechanics:
 
 * $$\boldsymbol{\rho = \rho(\mathbf{x},t)}$$ (probability density)
-* $$\boldsymbol{\mathbf{j} = \mathbf{j}(\mathbf{x},t)}$$ (quantum current - real)
+* $$\boldsymbol{\mathbf{j} = \mathbf{j}(\mathbf{x},t)}$$ (quantum current)
 * $$\boldsymbol{\mathbf{v} = \frac{\mathbf{j}}{\rho}}$$**​** (quantum velocity field)
 
 The evolution of these two fundamental fields, governed by our action principle $$\mathcal{A}[\rho, \mathbf{j}]$$, reproduces all quantum mechanical behavior including:
