@@ -72,7 +72,7 @@ This sets the electroweak scale:&#x20;
 
 #### Quantum Stability
 
-The quantum pressure term $\frac{\kappa}{2}(\nabla\sqrt{\rho})^2$ provides a "quantum cushion":
+The quantum pressure term $$\frac{\kappa}{2}(\nabla\sqrt{\rho})^2$$ provides a "quantum cushion":
 
 <p align="center"><span class="math">E_{\text{quantum}} \sim \frac{\kappa}{\ell^2 \rho} \sim \frac{\kappa}{\ell^6}</span></p>
 
