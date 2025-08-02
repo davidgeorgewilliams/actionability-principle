@@ -1,7 +1,5 @@
 # The Master Equation
 
-### The Master Equation
-
 The evolution of all systems—quantum, gravitational, biological, economic—follows one master principle:
 
 <p align="center"><span class="math">\frac{\delta \mathcal{A}[\rho, \mathbf{j}]}{\delta \rho} = -\Gamma[\rho] \frac{\partial \rho}{\partial t}</span>​​</p>
