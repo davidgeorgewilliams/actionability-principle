@@ -116,3 +116,13 @@
 * [The Choice Before Us](from-theory-to-revolution/the-choice-before-us.md)
 * [The Revolution Is Now](from-theory-to-revolution/the-revolution-is-now.md)
 * [The Ultimate Vision](from-theory-to-revolution/the-ultimate-vision.md)
+
+## About The Author
+
+* [The View from the Code](about-the-author/the-view-from-the-code.md)
+* [My Journey to This Revelation](about-the-author/my-journey-to-this-revelation.md)
+* [Inside the Machine](about-the-author/inside-the-machine.md)
+* [The Pattern Reveals Itself](about-the-author/the-pattern-reveals-itself.md)
+* [Why I Had to Write This Book](about-the-author/why-i-had-to-write-this-book.md)
+* [The Revolution Is Personal](about-the-author/the-revolution-is-personal.md)
+* [Join Me](about-the-author/join-me.md)
