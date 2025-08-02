@@ -120,6 +120,10 @@ The master equation says nature chooses field configurations that make $$\mathca
 
 This is like saying: "Of all possible ways $$\rho$$ and $$\mathbf{j}$$ could be distributed, nature picks the one that minimizes the total action."
 
+#### The Key Insight
+
+The action is a **score** for each possible universe configuration. Nature "computes" this score for all possibilities and selects the one with the lowest (or stationary) score. That's why we call it the "Actionability Principle" - nature acts to minimize action!
+
 ### The Energy Terms (Inside the Brackets)
 
 #### Term 1: Kinetic Energy
