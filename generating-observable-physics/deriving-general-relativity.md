@@ -83,7 +83,7 @@ The field equations in our familiar spacetime:&#x20;
 
 ### Step 8: Recovering Newton's Gravity
 
-In the weak field limit where $$g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}$ with $|h_{\mu\nu}| \ll 1$$:
+In the weak field limit where $$g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}$$ with $$|h_{\mu\nu}| \ll 1$$:
 
 The time-time component gives:&#x20;
 
