@@ -10,7 +10,7 @@ Our master equation operates in $$D$$-dimensional master space, yet we observe o
 
 Our master action is:
 
-$$\mathcal{A}[\rho, \mathbf{j}] = \int d^D X  dT \sqrt{|\det G_{AB}|} \left[ \frac{|\mathbf{j}|^2}{2\rho} + V(\rho) + \frac{\kappa}{2}(\nabla \sqrt{\rho})^2 + \mathcal{R}[\rho] \right]$$
+<p align="center"><span class="math">\mathcal{A}[\rho, \mathbf{j}] = \int d^D X  dT \sqrt{|\det G_{AB}|} \left[ \frac{|\mathbf{j}|^2}{2\rho} + V(\rho) + \frac{\kappa}{2}(\nabla \sqrt{\rho})^2 + \mathcal{R}[\rho] \right]</span></p>
 
 The key insight: The metric $$G_{AB}$$ itself must be determined by minimizing this action. Some dimensions naturally compactify to minimize $$\mathcal{A}$$.
 
