@@ -108,7 +108,7 @@ The hierarchy of scales emerges from the RG flow:
 
 ### The Profound Result
 
-The renormalization group flow is not imposed - it emerges from integrating out high-energy modes in our master equation. The observed forces and their strengths are not fundamental but are low-energy manifestations of the universal dynamics of $\rho$ and $\mathbf{j}$.
+The renormalization group flow is not imposed - it emerges from integrating out high-energy modes in our master equation. The observed forces and their strengths are not fundamental but are low-energy manifestations of the universal dynamics of $$\rho$$ and $$\mathbf{j}$$.
 
 This explains why:
 
