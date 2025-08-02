@@ -39,7 +39,7 @@ For electromagnetic waves in vacuum, dissipation is negligible ($$\Gamma \approx
 
 From $$\delta \mathcal{A}/\delta \mathbf{j} = 0$$:
 
-$$\frac{\delta\mathbf{j}}{\rho_0} = 0 \Rightarrow \frac{\partial \delta\rho}{\partial t} + \nabla \cdot \delta\mathbf{j} = 0 \tag{1}$$
+<p align="center"><span class="math">\frac{\delta\mathbf{j}}{\rho_0} = 0 \Rightarrow \frac{\partial \delta\rho}{\partial t} + \nabla \cdot \delta\mathbf{j} = 0 \tag{1}</span></p>
 
 This is the **continuity equation** for our perturbations.
 
