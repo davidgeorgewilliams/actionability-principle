@@ -87,8 +87,8 @@ Perhaps the most profound implications concern consciousness itself:
 
 **The Spectrum of Awareness**
 
-**Traditional view**: Consciousness is binary - you have it or you don't\
-**Our theory**: Consciousness is a **spectrum of self-reference** in energy flows
+* **Traditional view**: Consciousness is binary - you have it or you don't
+* **Our theory**: Consciousness is a **spectrum of self-reference** in energy flows
 
 **Implications**:
 
