@@ -70,9 +70,9 @@
 
 ## Unifying Gravity, Mind, and Markets
 
-* [The Master Equation](unifying-gravity-mind-and-markets/the-master-equation.md)
+* [A Return to Clarity](unifying-gravity-mind-and-markets/a-return-to-clarity.md)
 * [The Fundamental Insight](unifying-gravity-mind-and-markets/the-fundamental-insight.md)
-* [The Master Equation](unifying-gravity-mind-and-markets/the-master-equation-1.md)
+* [The Master Equation](unifying-gravity-mind-and-markets/the-master-equation.md)
 * [Nature's Cost Function](unifying-gravity-mind-and-markets/natures-cost-function.md)
 * [The Universal Pattern](unifying-gravity-mind-and-markets/the-universal-pattern.md)
 * [The Universal Action Principle](unifying-gravity-mind-and-markets/the-universal-action-principle.md)

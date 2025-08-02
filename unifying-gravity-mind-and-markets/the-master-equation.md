@@ -1,9 +1,15 @@
----
-description: A Grand Unified Field Theory
----
-
 # The Master Equation
 
-After dismantling centuries of mystification about emergence, we arrive at something profound: a single equation that unifies all of physics—from quantum mechanics to general relativity to thermodynamics—and extends naturally to describe complex systems like minds and markets.
+### The Master Equation
 
-This isn't mysticism. It's the opposite: a return to clarity that shows how all phenomena arise from the flow and concentration of energy density through spacetime.
+The evolution of all systems—quantum, gravitational, biological, economic—follows one master principle:
+
+<p align="center"><span class="math">\frac{\delta \mathcal{A}[\rho, \mathbf{j}]}{\delta \rho} = -\Gamma[\rho] \frac{\partial \rho}{\partial t}</span>​​</p>
+
+Where:
+
+* $$\mathcal{A}[\rho, \mathbf{j}]$$ is the action functional (nature's "cost function")
+* $$\Gamma[\rho]$$ is the dissipation functional (enforces the second law of thermodynamics)
+* The left side is the "force" trying to minimize the action
+* The right side is dissipation driving the system toward equilibrium
+
