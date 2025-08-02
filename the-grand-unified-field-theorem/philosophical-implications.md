@@ -24,8 +24,8 @@ Our unified theory fundamentally transforms our understanding of existence itsel
 
 **Space-Time as Emergent Poetry**
 
-**Einstein's insight**: Space-time is curved by matter-energy\
-**Our deeper truth**: Space-time itself is **written by** the correlations in $$\rho$$ and $$\mathbf{j}$$
+* **Einstein's insight**: Space-time is curved by matter-energy
+* **Our deeper truth**: Space-time itself is **written by** the correlations in $$\rho$$ and $$\mathbf{j}$$
 
 **The breathtaking realization**: Every second that passes, every inch of space you move through, is being continuously **created** by the universal computation happening in master space. Time isn't something you move through - it's something the universe computes, moment by moment.
 
