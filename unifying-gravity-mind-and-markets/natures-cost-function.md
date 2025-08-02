@@ -18,7 +18,7 @@ So in this sense, the action is nature's way of "scoring" different possibilitie
 
 But here's where it gets profound: The action isn't really about nature "choosing" or "minimizing" anything. Rather, it's about **information content**.
 
-The action can be rewritten as:
+The action can be written as:
 
 <p align="center"><span class="math">\mathcal{A}[\rho, \mathbf{j}] = -k_B \ln P[\rho, \mathbf{j}]</span></p>
 
