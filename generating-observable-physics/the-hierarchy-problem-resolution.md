@@ -103,7 +103,11 @@ The hierarchy problem dissolves because:
    * Planck scale: All terms in $$\mathcal{A}$$ compete
    * Atomic scale: Quantum pressure vs. Coulomb
    * EW scale: Symmetry breaking dynamics
-3. **Natural Protection**: Quantum corrections in our framework:$$\delta m^2 = \frac{\lambda}{16\pi^2} \int^{\Lambda} \frac{d^4k}{k^2 + m^2}$$, but in our theory, $$\Lambda$$ isn't arbitrary - it's determined by where new physics enters, naturally cutting off divergences.
+3. **Natural Protection**: Quantum corrections in our framework:\
+   \
+   $$\delta m^2 = \frac{\lambda}{16\pi^2} \int^{\Lambda} \frac{d^4k}{k^2 + m^2}$$\
+   \
+   but in our theory, $$\Lambda$$ isn't arbitrary - it's determined by where new physics enters, naturally cutting off divergences.
 
 ### The Profound Result
 
