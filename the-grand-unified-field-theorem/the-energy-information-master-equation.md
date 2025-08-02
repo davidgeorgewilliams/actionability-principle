@@ -112,6 +112,14 @@ Imagine calculating the total energy of the ocean:
 
 Similarly, our action "adds up" the energy density of the $$\rho$$ and $$\mathbf{j}$$ fields throughout all of spacetime.
 
+#### Why This Matters
+
+The master equation says nature chooses field configurations that make $$\mathcal{A}$$ **stationary** (usually minimum):
+
+<p align="center"><span class="math">\frac{\delta \mathcal{A}}{\delta \rho} = 0 \quad \text{(for equilibrium)}</span></p>
+
+This is like saying: "Of all possible ways $$\rho$$ and $$\mathbf{j}$$ could be distributed, nature picks the one that minimizes the total action."
+
 ### The Energy Terms (Inside the Brackets)
 
 #### Term 1: Kinetic Energy
