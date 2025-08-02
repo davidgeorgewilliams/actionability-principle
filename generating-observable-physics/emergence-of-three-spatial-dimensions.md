@@ -50,7 +50,7 @@ This yields the effective potential:
 where:
 
 * $$\mathcal{E}_{\text{quantum}} = -\frac{\kappa \zeta(D-d)}{a^2}$$ (quantum zero-point energy)
-* $$\mathcal{E}_{\text{curvature}} = \frac{\Lambda{\text{eff}} a^2}{2}$$ (curvature contribution)
+* $$\mathcal{E}_{\text{curvature}} = \frac{\Lambda_{\text{eff}} a^2}{2}$$ (curvature contribution)
 * $$\mathcal{E}_{\text{flux}} = \frac{C}{a^{D-d-1}}$$ (flux quantization energy)
 
 Here $$\zeta$$ is a numerical factor from mode summation.
