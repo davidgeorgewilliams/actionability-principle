@@ -79,7 +79,7 @@ where the **four-potential** $$A_\mu = (\phi/c, \mathbf{A})$$ is related to our 
 
 ### Step 4: The Speed of Light Emerges
 
-From equation (2), we get: $$c^2 = -\frac{\kappa}{4\sqrt{\rho_0} V''(\rho_0)}$$
+From Step 2, we get: $$c^2 = -\frac{\kappa}{4\sqrt{\rho_0} V''(\rho_0)}$$
 
 This is **the speed of light** - it emerges from the balance between quantum pressure ($$\kappa$$) and vacuum potential curvature ($$V''(\rho_0)$$).
 
@@ -95,7 +95,7 @@ Taking the divergence of $$\mathbf{E}$$:&#x20;
 
 <p align="center"><span class="math">\nabla \cdot \mathbf{E} = \frac{c^2}{\rho_0}\nabla^2 \int \delta\rho dt - \frac{1}{\rho_0}\frac{\partial}{\partial t}(\nabla \cdot \int \delta\mathbf{j} dt)</span></p>
 
-Using equation (1):&#x20;
+Using Step 1:&#x20;
 
 <p align="center"><span class="math">\nabla \cdot \delta\mathbf{j} = -\frac{\partial \delta\rho}{\partial t}</span></p>
 
@@ -103,7 +103,7 @@ Therefore:
 
 <p align="center"> <span class="math">\nabla \cdot \mathbf{E} = \frac{c^2}{\rho_0}\nabla^2 \int \delta\rho dt + \frac{1}{\rho_0}\frac{\partial^2}{\partial t^2}\int \delta\rho dt</span></p>
 
-Using equation (2) and the wave equation that follows from it:&#x20;
+Using Step 2, and the wave equation that follows from it:&#x20;
 
 <p align="center"><span class="math">\nabla \cdot \mathbf{E} = \frac{\rho_{\text{charge}}}{\epsilon_0}</span></p>
 
