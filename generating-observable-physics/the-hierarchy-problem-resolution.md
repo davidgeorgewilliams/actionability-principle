@@ -10,7 +10,7 @@ Why is gravity $$10^{40}$$ times weaker than electromagnetism? In our framework,
 
 All scales emerge from minimizing:&#x20;
 
-$$\mathcal{A}[\rho, \mathbf{j}] = \int d^D X  dT  \sqrt{|\det G_{AB}|} \left[ \frac{|\mathbf{j}|^2}{2\rho} + V(\rho) + \frac{\kappa}{2}(\nabla \sqrt{\rho})^2 + \mathcal{R}[\rho] \right]$$
+<p align="center"><span class="math">\mathcal{A}[\rho, \mathbf{j}] = \int d^D X  dT  \sqrt{|\det G_{AB}|} \left[ \frac{|\mathbf{j}|^2}{2\rho} + V(\rho) + \frac{\kappa}{2}(\nabla \sqrt{\rho})^2 + \mathcal{R}[\rho] \right]</span></p>
 
 Different terms dominate at different scales, naturally generating the hierarchy.
 
