@@ -90,7 +90,7 @@ These maintain fixed sizes determined by the balance of forces, not by quantum c
 
 The RG flow equations derived earlier show that scales are attractors:
 
-\$$\frac{d\ell}{d\log k} = \beta(\ell) = 0 \quad \text{at critical points}\$$
+<p align="center"><span class="math">\frac{d\ell}{d\log k} = \beta(\ell) = 0 \quad \text{at critical points}</span></p>
 
 Small perturbations flow back to these fixed scales.
 
