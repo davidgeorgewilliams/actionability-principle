@@ -70,7 +70,7 @@
 
 ## Unifying Gravity, Mind, and Markets
 
-* [A Return to Clarity](unifying-gravity-mind-and-markets/a-return-to-clarity.md)
+* [The Return to Clarity](unifying-gravity-mind-and-markets/the-return-to-clarity.md)
 * [The Fundamental Insight](unifying-gravity-mind-and-markets/the-fundamental-insight.md)
 * [The Master Equation](unifying-gravity-mind-and-markets/the-master-equation.md)
 * [Nature's Cost Function](unifying-gravity-mind-and-markets/natures-cost-function.md)
