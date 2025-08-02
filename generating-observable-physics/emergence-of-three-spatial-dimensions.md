@@ -59,7 +59,7 @@ Here $$\zeta$$ is a numerical factor from mode summation.
 
 For a stable minimum at $$a = a_0$$:
 
-<p align="center"><span class="math">\frac{\partial V_{\text{eff}}}{\partial a}\bigg|{a_0} = 0 \quad \text{and} \quad \frac{\partial^2 V{\text{eff}}}{\partial a^2}\bigg|_{a_0} > 0</span></p>
+<p align="center"><span class="math">\frac{\partial V_{\text{eff}}}{\partial a}\bigg|{a_0} = 0 \quad \text{and} \quad \frac{\partial^2 V_{\text{eff}}}{\partial a^2}\bigg|_{a_0} > 0</span></p>
 
 The first condition gives:&#x20;
 
