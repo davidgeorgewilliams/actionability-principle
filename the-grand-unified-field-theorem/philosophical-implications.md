@@ -46,7 +46,7 @@ At the deepest level, the master equations are **perfectly deterministic**:&#x20
 
 <p align="center"><span class="math">\frac{\delta \mathcal{A}}{\delta \rho} = -\Gamma[\rho] \frac{\partial \rho}{\partial T}</span></p>
 
-**What this means**: In master time $$T$$, the universe unfolds with complete mathematical precision. Every configuration of $$\rho$$ and $\mathbf{j}$ follows inevitably from the initial conditions and the action principle.
+**What this means**: In master time $$T$$, the universe unfolds with complete mathematical precision. Every configuration of $$\rho$$ and $$\mathbf{j}$$ follows inevitably from the initial conditions and the action principle.
 
 **The Emergent Randomness**
 
