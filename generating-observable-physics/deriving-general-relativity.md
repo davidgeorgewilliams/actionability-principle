@@ -97,7 +97,7 @@ We've shown that:
 
 1. **Spacetime is not fundamental** - it emerges from energy density patterns
 2. **Gravity is not a force** - it's the curvature caused by energy flow
-3. **Information geometry becomes physical geometry** - $$\mathcal{R}[\rho] \to R[g]$$
+3. **Information geometry becomes physical geometry** - $$\mathcal{R}[\rho] \to \mathcal{R}[g]$$
 4. **Einstein's equations aren't postulated** - they follow from minimizing action
 
 ### The Complete Picture
