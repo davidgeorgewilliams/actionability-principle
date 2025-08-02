@@ -26,7 +26,7 @@ Setting this to zero for stationary states and simplifying:
 
 <p align="center"><span class="math">\frac{|\mathbf{j}|^2}{2\rho^2} = \frac{\partial V}{\partial \rho} - \frac{\kappa}{2\sqrt{\rho}}\nabla^2\sqrt{\rho} + \frac{\delta \mathcal{R}}{\delta \rho}</span></p>
 
-Taking the functional derivative with respect to $\mathbf{j}$:
+Taking the functional derivative with respect to $$\mathbf{j}$$:
 
 <p align="center"><span class="math">\frac{\delta \mathcal{A}}{\delta \mathbf{j}} = \frac{\mathbf{j}}{\rho}</span></p>
 
