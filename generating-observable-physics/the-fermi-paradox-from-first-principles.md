@@ -14,7 +14,7 @@ From our framework, consciousness requires:&#x20;
 
 <p align="center"><span class="math">\oint_C \mathbf{j} \cdot d\mathbf{l} = \Phi[\rho, \mathbf{j}]</span></p>
 
-But this is just the beginning. For technological civilization, we need:
+But this is just the beginning. For technological civilization, we need stability at many levels.
 
 #### Hierarchical Stability
 
