@@ -40,7 +40,7 @@ Let's break down every component:
 
 ### The Left Side:&#x20;
 
-Expression: $$\mathcal{A}[\rho, \mathbf{j}]$$
+**Expression**: $$\mathcal{A}[\rho, \mathbf{j}]$$
 
 **What it is**: The action functional - a number that measures the "cost" of a particular configuration
 
@@ -53,7 +53,7 @@ Expression: $$\mathcal{A}[\rho, \mathbf{j}]$$
 
 ### The Integration Measure
 
-Expression: $$\int d^D X dT$$
+**Expression**: $$\int d^D X dT$$
 
 **What it is**: Integration over all space and time in the master space
 
@@ -63,7 +63,7 @@ Expression: $$\int d^D X dT$$
 * $$dT$$ - integrate over master time
 * Together: sum up contributions from every point in spacetime
 
-Expression: $$\sqrt{|\det G_{AB}|}$$
+**Expression**: $$\sqrt{|\det G_{AB}|}$$
 
 **What it is**: The volume element for curved master space
 
