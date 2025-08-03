@@ -95,8 +95,9 @@
 
 ## Generating Observable Physics
 
-* [Emergence of the Hydrogen Atom](generating-observable-physics/emergence-of-the-hydrogen-atom.md)
+* [The Origin of Spacetime](generating-observable-physics/the-origin-of-spacetime.md)
 * [Emergence of Three Spatial Dimensions](generating-observable-physics/emergence-of-three-spatial-dimensions.md)
+* [Emergence of the Hydrogen Atom](generating-observable-physics/emergence-of-the-hydrogen-atom.md)
 * [Deriving Maxwell's Equations](generating-observable-physics/deriving-maxwells-equations.md)
 * [Deriving Schrödinger's Equation](generating-observable-physics/deriving-schrodingers-equation.md)
 * [Deriving General Relativity](generating-observable-physics/deriving-general-relativity.md)
