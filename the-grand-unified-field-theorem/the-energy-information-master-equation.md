@@ -128,7 +128,7 @@ The action is a **score** for each possible universe configuration. Nature "comp
 
 #### Term 1: Kinetic Energy
 
-Expression: $$\frac{|\mathbf{j}|^2}{2\rho}$$
+**Expression**: $$\frac{|\mathbf{j}|^2}{2\rho}$$
 
 **What it is**: The energy of motion/flow
 
@@ -147,7 +147,7 @@ Expression: $$\frac{|\mathbf{j}|^2}{2\rho}$$
 
 #### Term 2: Potential Energy
 
-Expression $$V(\rho)$$
+**Expression**: $$V(\rho)$$
 
 **What it is**: The energy cost of having a particular density
 
@@ -162,7 +162,7 @@ Expression $$V(\rho)$$
 
 #### Term 3: Quantum Pressure
 
-Expression: $$\frac{\kappa}{2}(\nabla \sqrt{\rho})^2$$
+**Expression**: $$\frac{\kappa}{2}(\nabla \sqrt{\rho})^2$$
 
 **What it is**: The quantum mechanical term that prevents collapse
 
@@ -187,7 +187,7 @@ Why $$\sqrt{\rho}$$ not $$\rho$$?
 
 #### Term 4: Information Geometry&#x20;
 
-Expression: $$\mathcal{R}[\rho]$$
+**Expression**: $$\mathcal{R}[\rho]$$
 
 **What it is**: How the information content curves the space of possibilities
 
