@@ -96,7 +96,7 @@ This is the **energy density** at each point in spacetime, multiplied by the vol
 
 The integration is over:
 
-* **All D spatial dimensions**: $$d^D X = dX^1 dX^2 \cdots dX^D$$
+* **All** $$D$$ **spatial dimensions**: $$d^D X = dX^1 dX^2 \cdots dX^D$$
 * **All of time**: $$dT$$ from initial to final time
 * Together: Every point in $$(D+1)$$-dimensional spacetime
 
