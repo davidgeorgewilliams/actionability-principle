@@ -95,7 +95,6 @@
 
 ## Generating Observable Physics
 
-* [Self-Referential Loops and Consciousness](generating-observable-physics/self-referential-loops-and-consciousness.md)
 * [Emergence of the Hydrogen Atom](generating-observable-physics/emergence-of-the-hydrogen-atom.md)
 * [Emergence of Three Spatial Dimensions](generating-observable-physics/emergence-of-three-spatial-dimensions.md)
 * [Deriving Maxwell's Equations](generating-observable-physics/deriving-maxwells-equations.md)
@@ -104,11 +103,12 @@
 * [Renormalization Group Flow](generating-observable-physics/renormalization-group-flow.md)
 * [The Hierarchy Problem Resolution](generating-observable-physics/the-hierarchy-problem-resolution.md)
 * [The Emergence of Intelligence](generating-observable-physics/the-emergence-of-intelligence.md)
+* [Self-Referential Loops and Consciousness](generating-observable-physics/self-referential-loops-and-consciousness.md)
 * [Conclusion](generating-observable-physics/conclusion.md)
 
 ## From Theory to Revolution
 
-* [The End of Mystery, The Beginning of Mastery](from-theory-to-revolution/the-end-of-mystery-the-beginning-of-mastery.md)
+* [The End of Mystery](from-theory-to-revolution/the-end-of-mystery.md)
 * [The Master Key](from-theory-to-revolution/the-master-key.md)
 * [From Understanding to Engineering](from-theory-to-revolution/from-understanding-to-engineering.md)
 * [The Experimental Path Forward](from-theory-to-revolution/the-experimental-path-forward.md)

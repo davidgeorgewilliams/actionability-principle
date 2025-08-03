@@ -1,4 +1,8 @@
-# The End of Mystery, The Beginning of Mastery
+---
+description: The Beginning of Mastery
+---
+
+# The End of Mystery
 
 We have done something unprecedented. We have taken humanity's greatest mystery—how simple things become complex—and revealed it to be no mystery at all. Just scale mismatch. Just our failure to look at the right level.
 
