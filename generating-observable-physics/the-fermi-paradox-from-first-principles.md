@@ -321,7 +321,7 @@ For an interstellar civilization:
 
 For a modest interstellar civilization:
 
-* Radius: \~100 light-years
+* Radius: $$\sim100$$ light-years
 * Volume: $$V ≈ (100 ly)³ ≈ (10^18 m)³ ≈ 10^54 m³$$
 
 #### 3. Entropy Production Rate (Γ\[ρ])
@@ -342,7 +342,7 @@ Conservative estimate for entropy production density:&#x20;
 
 <p align="center"><span class="math">\Phi_E > 3 \times 10^{-29} \times 10^{54}</span></p>
 
-<p align="center"><span class="math">\Phi_E > 3 \times 10^{25} , \text{watts}</span></p>
+<p align="center"><span class="math">\Phi_E > 3 \times 10^{25} \text{watts}</span></p>
 
 Rounding up for safety margin: $$~10^{26}watts$$.
 
