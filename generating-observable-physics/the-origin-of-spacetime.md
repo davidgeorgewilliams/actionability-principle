@@ -10,7 +10,7 @@ Before we can derive atoms, forces, or consciousness, we must understand how spa
 
 From our action principle:&#x20;
 
-<p align="center"><span class="math">\mathcal{A}[\rho, \mathbf{j}] = \int d^D X , dT , \sqrt{|\det G_{AB}|} \left[ \frac{|\mathbf{j}|^2}{2\rho} + V(\rho) + \frac{\kappa}{2}(\nabla \sqrt{\rho})^2 + \mathcal{R}[\rho] \right]</span></p>
+<p align="center"><span class="math">\mathcal{A}[\rho, \mathbf{j}] = \int d^D X  dT  \sqrt{|\det G_{AB}|} \left[ \frac{|\mathbf{j}|^2}{2\rho} + V(\rho) + \frac{\kappa}{2}(\nabla \sqrt{\rho})^2 + \mathcal{R}[\rho] \right]</span></p>
 
 The highest symmetry state has:
 
