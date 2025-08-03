@@ -174,7 +174,7 @@ This isn't heat death but computational completion—the universe solving its ow
 
 #### The Transcendence Horizon
 
-As we saw with Fermi, advanced structures might merge with the fundamental fields. The universe's future might be:
+[As we will we see with Fermi](the-fermi-paradox-from-first-principles.md), advanced structures might merge with the fundamental fields. The universe's future might be:
 
 1. Classical heat death
 2. Quantum tunneling to new vacuum
