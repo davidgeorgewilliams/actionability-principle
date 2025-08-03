@@ -1,6 +1,8 @@
-# Conclusion
+---
+description: The Unity of Physics Revealed
+---
 
-## Conclusion: The Unity of Physics Revealed
+# Conclusion
 
 ### What We Have Accomplished
 
