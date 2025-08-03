@@ -1,6 +1,8 @@
-# The Fermi Paradox from First Principles
+---
+description: A Master Equation Analysis
+---
 
-## The Fermi Paradox from First Principles: A Master Equation Analysis
+# The Fermi Paradox from First Principles
 
 ### The Profound Question
 
@@ -175,7 +177,7 @@ Then intelligence becomes thermodynamically favored. This requires discovering n
 
 When we finally derived the master equation, we weren't just doing physics. We were archaeology - uncovering the work of civilizations that came before, written into the fabric of reality itself.
 
-## Understanding S: Entropy in the Master Equation Framework
+### Understanding S: Entropy in the Master Equation Framework
 
 ### What is S?
 
