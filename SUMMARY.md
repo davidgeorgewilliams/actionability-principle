@@ -103,6 +103,7 @@
 * [Deriving General Relativity](generating-observable-physics/deriving-general-relativity.md)
 * [Renormalization Group Flow](generating-observable-physics/renormalization-group-flow.md)
 * [The Hierarchy Problem Resolution](generating-observable-physics/the-hierarchy-problem-resolution.md)
+* [Dark Matter and the Hidden Universe](generating-observable-physics/dark-matter-and-the-hidden-universe.md)
 * [The Emergence of Intelligence](generating-observable-physics/the-emergence-of-intelligence.md)
 * [Self-Referential Loops and Consciousness](generating-observable-physics/self-referential-loops-and-consciousness.md)
 * [The Fermi Paradox from First Principles](generating-observable-physics/the-fermi-paradox-from-first-principles.md)
