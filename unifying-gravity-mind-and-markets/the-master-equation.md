@@ -23,7 +23,7 @@ This single equation governs everything from atoms to galaxies, from thoughts to
 
 #### The Action Functional
 
-Expression: $$\mathcal{A}[\rho, \mathbf{j}]$$
+**Expression**: $$\mathcal{A}[\rho, \mathbf{j}]$$
 
 **For Everyone**: Think of this as nature's "total cost" for a particular configuration of energy in the universe. Just like Amazon calculates shipping costs based on package weight and distance, nature calculates an "action cost" based on how energy is distributed and flowing.
 
@@ -38,7 +38,7 @@ Expression: $$\mathcal{A}[\rho, \mathbf{j}]$$
 
 #### The Functional Derivative
 
-Expression: $$\frac{\delta}{\delta \rho}$$
+**Expression**: $$\frac{\delta}{\delta \rho}$$
 
 **For Everyone**: This asks "If I change the energy density at one point by a tiny amount, how much does the total cost change?" It's like asking "If I add one more item to my shopping cart, how much does my total increase?"
 
@@ -56,7 +56,7 @@ Expression: $$\frac{\delta}{\delta \rho}$$
 
 #### The Dissipation Functional
 
-Expression: $$\Gamma[\rho]$$
+**Expression**: $$\Gamma[\rho]$$
 
 **For Everyone**: This is nature's "friction coefficient." Just as friction slows down a sliding box, dissipation slows down changes in energy density. It ensures that coffee cools down, stars burn out, and perpetual motion machines don't exist.
 
@@ -71,7 +71,7 @@ Expression: $$\Gamma[\rho]$$
 
 #### The Time Rate of Change
 
-Expression: $$\frac{\partial \rho}{\partial t}$$&#x20;
+**Expression**: $$\frac{\partial \rho}{\partial t}$$&#x20;
 
 **For Everyone**: This simply means "how fast the energy density is changing at each point." If energy is piling up somewhere, this is positive. If it's depleting, this is negative.
 
