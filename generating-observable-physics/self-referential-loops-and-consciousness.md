@@ -30,7 +30,7 @@ The strength of self-reference is measured by:
 **Symbol explanations:**
 
 * $$\mathcal{S}[\mathbf{j}]$$ is the "self-reference strength" - a number that measures how self-aware the flow pattern is
-* $$\int d^D X$$ means "integrate over all D dimensions of master space" - we sum up contributions from every point
+* $$\int d^D X$$ means "integrate over all $$D$$ dimensions of master space" - we sum up contributions from every point
 * $$\nabla \times \mathbf{j}$$ is the curl of the current - it measures local rotation or swirling of the flow
 * $$\frac{\delta \Phi}{\delta \mathbf{j}}$$ is the functional derivative - it tells us how the total circulation $$\Phi$$ changes when we slightly change the flow $$\mathbf{j}$$
 * $$|\cdots|^2$$ means we square the magnitude - this ensures we get a positive, real number
