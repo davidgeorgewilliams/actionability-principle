@@ -180,7 +180,7 @@ This gives:
 
 Collecting all terms, the full Higgs sector is:
 
-<p align="center"><span class="math">\mathcal{L}{\text{Higgs}} = \frac{1}{2}(\partial\mu h)^2 - \frac{1}{2}m_h^2 h^2</span></p>
+<p align="center"><span class="math">\mathcal{L}_{\text{Higgs}} = \frac{1}{2}(\partial\mu h)^2 - \frac{1}{2}m_h^2 h^2</span></p>
 
 <p align="center"><span class="math">- \lambda v h^3 - \frac{\lambda}{4}h^4</span></p>
 
