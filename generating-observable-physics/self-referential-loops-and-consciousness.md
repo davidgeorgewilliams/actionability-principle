@@ -67,7 +67,7 @@ All quantities ($$\rho$$, $$\mathbf{j}$$, $$\Phi$$, etc.) are strictly real-valu
 2. **Information clarity**: Real flows represent actual energy/information movement
 3. **Conceptual simplicity**: No need for "imaginary" components - everything has direct physical meaning
 
-The traditional complex wave function $\psi$ is replaced by two real fields:
+The traditional complex wave function $$\psi$$ is replaced by two real fields:
 
 * $$\rho$$ (density) replaces $$|\psi|^2$$
 * $$\mathbf{j}$$ (current) replaces the phase gradient of $$\psi$$
