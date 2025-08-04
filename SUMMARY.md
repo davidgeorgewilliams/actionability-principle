@@ -101,6 +101,7 @@
 * [Black Holes](generating-observable-physics/black-holes.md)
 * [The Strong Force](generating-observable-physics/the-strong-force.md)
 * [Emergence of the Hydrogen Atom](generating-observable-physics/emergence-of-the-hydrogen-atom.md)
+* [The Higgs Mechanism](generating-observable-physics/the-higgs-mechanism.md)
 * [Deriving Maxwell's Equations](generating-observable-physics/deriving-maxwells-equations.md)
 * [Deriving Schrödinger's Equation](generating-observable-physics/deriving-schrodingers-equation.md)
 * [Deriving General Relativity](generating-observable-physics/deriving-general-relativity.md)
