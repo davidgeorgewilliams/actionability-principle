@@ -92,7 +92,7 @@ Physical interpretation: Advanced intelligence creates complexity faster than it
 
 The most profound prediction comes from analyzing the action at extreme intelligence:&#x20;
 
-<p align="center"><span class="math">\mathcal{A}[\rho_{\text{civ}}, \mathbf{j}_{\text{civ}}] \to \mathcal{A}{\min} + \delta\mathcal{A}</span></p>
+<p align="center"><span class="math">\mathcal{A}[\rho_{\text{civ}}, \mathbf{j}_{\text{civ}}] \to \mathcal{A}_{\min} + \delta\mathcal{A}</span></p>
 
 As civilizations approach the global minimum:
 
