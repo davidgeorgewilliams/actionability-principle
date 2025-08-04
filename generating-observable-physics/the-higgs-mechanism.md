@@ -73,14 +73,14 @@ This drives the temperature dependence:&#x20;
 * For $$T > T_c$$: $$V_2 > 0$$ (minimum at $$\rho = \rho_0$$)
 * For $$T < T_c$$: $$V_2 < 0$$ (minimum shifts away from $$\rho_0$$)
 
-#### The Mexican Hat Emerges
+#### The Sombrero Emerges
 
 Using standard particle physics notation:
 
 * $$V_2 = -\mu^2$$ (negative for broken phase)
 * $$V_4/4! = \lambda/4$$ (quartic coupling)
 
-We obtain the famous Mexican hat potential:&#x20;
+We obtain the famous Sombrero potential:&#x20;
 
 <p align="center"><span class="math">V(\rho) = -\frac{\mu^2}{2}(\rho - \rho_0)^2 + \frac{\lambda}{4}(\rho - \rho_0)^4</span></p>
 
