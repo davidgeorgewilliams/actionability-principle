@@ -4,8 +4,6 @@ description: Ripples in the Energy Density Field
 
 # Gravitational Waves
 
-### The Emergence of Gravitational Waves
-
 In our framework, spacetime curvature emerges from the information geometry of energy density distributions. Gravitational waves are not fundamental—they're the inevitable consequence of accelerating energy density patterns creating ripples in the emergent metric.
 
 While Einstein's general relativity predicts gravitational waves as ripples in spacetime itself, our master equation reveals a deeper truth: they're ripples in the energy density field that creates spacetime. This distinction leads to precise, testable predictions that no other theory has made.
@@ -59,8 +57,6 @@ From our framework, metric perturbations satisfy:&#x20;
 where $$\Box = -\frac{1}{c^2}\frac{\partial^2}{\partial t^2} + \nabla^2$$ is the wave operator, and $$T_{\mu\nu}$$ is the stress-energy tensor:&#x20;
 
 <p align="center"><span class="math">T_{\mu\nu} = \frac{2}{\sqrt{-g}} \frac{\delta(\sqrt{-g}\mathcal{L}_{\text{matter}})}{\delta g^{\mu\nu}}</span></p>
-
-#### Step 3: The Wave Solution
 
 #### Step 3: The Wave Solution
 
