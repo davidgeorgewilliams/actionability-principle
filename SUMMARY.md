@@ -98,7 +98,6 @@
 * [The Origin of Spacetime](generating-observable-physics/the-origin-of-spacetime.md)
 * [Emergence of Three Spatial Dimensions](generating-observable-physics/emergence-of-three-spatial-dimensions.md)
 * [Why Matter Exists](generating-observable-physics/why-matter-exists.md)
-* [Black Holes](generating-observable-physics/black-holes.md)
 * [The Strong Force](generating-observable-physics/the-strong-force.md)
 * [Emergence of the Hydrogen Atom](generating-observable-physics/emergence-of-the-hydrogen-atom.md)
 * [The Higgs Mechanism](generating-observable-physics/the-higgs-mechanism.md)
@@ -107,12 +106,13 @@
 * [Deriving General Relativity](generating-observable-physics/deriving-general-relativity.md)
 * [Renormalization Group Flow](generating-observable-physics/renormalization-group-flow.md)
 * [The Hierarchy Problem Resolution](generating-observable-physics/the-hierarchy-problem-resolution.md)
+* [Black Holes](generating-observable-physics/black-holes.md)
+* [Gravitational Waves](generating-observable-physics/gravitational-waves.md)
 * [Dark Matter and the Hidden Universe](generating-observable-physics/dark-matter-and-the-hidden-universe.md)
 * [Self-Referential Loops and Consciousness](generating-observable-physics/self-referential-loops-and-consciousness.md)
 * [The Emergence of Intelligence](generating-observable-physics/the-emergence-of-intelligence.md)
 * [The Fermi Paradox from First Principles](generating-observable-physics/the-fermi-paradox-from-first-principles.md)
 * [Conclusion](generating-observable-physics/conclusion.md)
-* [Gravitational Waves](generating-observable-physics/gravitational-waves.md)
 
 ## From Theory to Revolution
 
