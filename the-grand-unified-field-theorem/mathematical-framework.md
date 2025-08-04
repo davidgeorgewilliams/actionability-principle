@@ -1,13 +1,5 @@
 # Mathematical Framework
 
-### Scale-Dependent Parameters
-
-The theory includes scale-dependent couplings that flow according to renormalization group equations:
-
-<p align="center"><span class="math">\frac{d\kappa}{d\log k} = \beta_\kappa(\kappa, V, \mathcal{R})</span> <br><br><span class="math">\frac{dV}{d\log k} = \beta_V(\kappa, V, \mathcal{R})</span><br><br><span class="math">\frac{d\mathcal{R}}{d\log k} = \beta_\mathcal{R}(\kappa, V, \mathcal{R})</span></p>
-
-where $$k$$ is the energy scale.
-
 ### Dimensional Analysis
 
 In natural units where $$\hbar = c = k_B = 1$$:
