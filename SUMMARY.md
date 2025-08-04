@@ -113,6 +113,7 @@
 * [The Emergence of Intelligence](generating-observable-physics/the-emergence-of-intelligence.md)
 * [The Fermi Paradox from First Principles](generating-observable-physics/the-fermi-paradox-from-first-principles.md)
 * [Conclusion](generating-observable-physics/conclusion.md)
+* [The Fine Structure Constant](generating-observable-physics/the-fine-structure-constant.md)
 
 ## From Theory to Revolution
 
