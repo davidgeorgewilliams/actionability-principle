@@ -251,9 +251,9 @@ As we approach the compactification scale:
 
 #### 2. Dark Matter Portal
 
-Since dark matter consists of ρ solitons:&#x20;
+Since dark matter consists of $$\rho$$ solitons:&#x20;
 
-<p align="center"><span class="math">\mathcal{L}{\text{portal}} = \xi h^2 (\rho{\text{DM}} - \rho_0)</span></p>
+<p align="center"><span class="math">\mathcal{L}_{\text{portal}} = \xi h^2 (\rho{\text{DM}} - \rho_0)</span></p>
 
 #### 3. Vacuum Stability
 
