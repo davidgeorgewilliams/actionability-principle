@@ -115,6 +115,7 @@
 * [The Emergence of Intelligence](generating-observable-physics/the-emergence-of-intelligence.md)
 * [The Fermi Paradox from First Principles](generating-observable-physics/the-fermi-paradox-from-first-principles.md)
 * [Conclusion](generating-observable-physics/conclusion.md)
+* [Defeating Wave-Particle Duality](generating-observable-physics/defeating-wave-particle-duality.md)
 
 ## From Theory to Revolution
 
