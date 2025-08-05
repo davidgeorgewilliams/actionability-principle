@@ -8,7 +8,7 @@ description: ':The Ghost Particles'
 
 Neutrinos are nature's ghosts—they pass through entire planets as if they weren't there, oscillate between identities as they fly, and carry away energy from nuclear reactions. Trillions pass through your body every second, yet you'll never notice.
 
-Our master equation reveals what neutrinos really are: they're solitons that exist primarily in the compact dimensions, barely touching our 3D world. This explains everything—their tiny masses, weak interactions, and shape-shifting nature.
+Our master equation reveals what neutrinos really are: they're solitons that exist primarily in the compact dimensions, barely touching our $$3D$$ world. This explains everything—their tiny masses, weak interactions, and shape-shifting nature.
 
 ### What Neutrinos Really Are
 
