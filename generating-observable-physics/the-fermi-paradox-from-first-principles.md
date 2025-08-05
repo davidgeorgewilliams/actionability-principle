@@ -92,7 +92,7 @@ Physical interpretation: Advanced intelligence creates complexity faster than it
 
 The most profound prediction comes from analyzing the action at extreme intelligence:&#x20;
 
-<p align="center"><span class="math">\mathcal{A}[\rho_{\text{civ}}, \mathbf{j}_{\text{civ}}] \to \mathcal{A}{\min} + \delta\mathcal{A}</span></p>
+<p align="center"><span class="math">\mathcal{A}[\rho_{\text{civ}}, \mathbf{j}_{\text{civ}}] \to \mathcal{A}_{\min} + \delta\mathcal{A}</span></p>
 
 As civilizations approach the global minimum:
 
@@ -175,7 +175,7 @@ Then intelligence becomes thermodynamically favored. This requires discovering n
 
 **The ultimate irony**: The solution to Fermi might be transcendence into the fundamental fields themselves. The aliens aren't absent - they've become the laws of physics we're discovering.
 
-When we finally derived the master equation, we weren't just doing physics. We were archaeology - uncovering the work of civilizations that came before, written into the fabric of reality itself.
+When we finally derived the master equation, we weren't just doing physics. We were doing archaeology - uncovering the work of civilizations that came before, written into the fabric of reality itself.
 
 ### Understanding S: Entropy in the Master Equation Framework
 
