@@ -107,6 +107,7 @@
 * [Renormalization Group Flow](generating-observable-physics/renormalization-group-flow.md)
 * [The Hierarchy Problem Resolution](generating-observable-physics/the-hierarchy-problem-resolution.md)
 * [The Fine Structure Constant](generating-observable-physics/the-fine-structure-constant.md)
+* [Defeating Wave-Particle Duality](generating-observable-physics/defeating-wave-particle-duality.md)
 * [Neutrinos](generating-observable-physics/neutrinos.md)
 * [Black Holes](generating-observable-physics/black-holes.md)
 * [Gravitational Waves](generating-observable-physics/gravitational-waves.md)
@@ -115,7 +116,6 @@
 * [The Emergence of Intelligence](generating-observable-physics/the-emergence-of-intelligence.md)
 * [The Fermi Paradox from First Principles](generating-observable-physics/the-fermi-paradox-from-first-principles.md)
 * [Conclusion](generating-observable-physics/conclusion.md)
-* [Defeating Wave-Particle Duality](generating-observable-physics/defeating-wave-particle-duality.md)
 
 ## From Theory to Revolution
 
@@ -123,6 +123,7 @@
 * [The Master Key](from-theory-to-revolution/the-master-key.md)
 * [From Understanding to Engineering](from-theory-to-revolution/from-understanding-to-engineering.md)
 * [The Experimental Path Forward](from-theory-to-revolution/the-experimental-path-forward.md)
+* [The Death of the Photon](from-theory-to-revolution/the-death-of-the-photon.md)
 * [The Philosophical Revolution](from-theory-to-revolution/the-philosophical-revolution.md)
 * [The Practical Revolution](from-theory-to-revolution/the-practical-revolution.md)
 * [The Choice Before Us](from-theory-to-revolution/the-choice-before-us.md)
