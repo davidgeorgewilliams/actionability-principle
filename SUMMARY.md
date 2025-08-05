@@ -107,6 +107,7 @@
 * [Renormalization Group Flow](generating-observable-physics/renormalization-group-flow.md)
 * [The Hierarchy Problem Resolution](generating-observable-physics/the-hierarchy-problem-resolution.md)
 * [The Fine Structure Constant](generating-observable-physics/the-fine-structure-constant.md)
+* [Neutrinos](generating-observable-physics/neutrinos.md)
 * [Black Holes](generating-observable-physics/black-holes.md)
 * [Gravitational Waves](generating-observable-physics/gravitational-waves.md)
 * [Dark Matter and the Hidden Universe](generating-observable-physics/dark-matter-and-the-hidden-universe.md)
@@ -114,7 +115,6 @@
 * [The Emergence of Intelligence](generating-observable-physics/the-emergence-of-intelligence.md)
 * [The Fermi Paradox from First Principles](generating-observable-physics/the-fermi-paradox-from-first-principles.md)
 * [Conclusion](generating-observable-physics/conclusion.md)
-* [Neutrinos](generating-observable-physics/neutrinos.md)
 
 ## From Theory to Revolution
 
