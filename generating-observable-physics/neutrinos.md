@@ -1,5 +1,5 @@
 ---
-description: ':The Ghost Particles'
+description: The Ghost Particles
 ---
 
 # Neutrinos
