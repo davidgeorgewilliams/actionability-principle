@@ -24,13 +24,13 @@ Our framework reveals symmetries exist at multiple levels:
 
 **1. Master Space Symmetry (Perfect)**
 
-In the full D-dimensional master space, the action has perfect symmetry:
+In the full $$D$$-dimensional master space, the action has perfect symmetry:
 
 <p align="center"><span class="math">\mathcal{A}[\rho, \mathbf{j}] = \int d^D X , dT , \sqrt{|\det G_{AB}|} \left[ \frac{|\mathbf{j}|^2}{2\rho} + V(\rho) + \frac{\kappa}{2}(\nabla \sqrt{\rho})^2 + \mathcal{R}[\rho] \right]</span></p>
 
 This is invariant under:
 
-* $$D$$-dimensional rotations: $$SO(D)$$
+* D-dimensional rotations: $$SO(D)$$
 * Time translation (before dissipation)
 * Gauge transformations: $$U(1) × SU(2) × SU(3)$$
 
@@ -38,7 +38,7 @@ This is invariant under:
 
 When dimensions compactify to give our observable universe:
 
-<p align="center"><span class="math">\mathbf{X} = (\mathbf{x}_{3D}, \mathbf{y}_{compact})</span></p>
+<p align="center"><span class="math">\mathbf{X} = (\mathbf{x}{3D}, \mathbf{y}{compact})</span></p>
 
 Most symmetries break:
 
@@ -48,19 +48,75 @@ Most symmetries break:
 
 #### Noether's Theorem Through the Master Equation
 
-Let's prove Noether's theorem using our framework. For any infinitesimal transformation δ that leaves the action invariant:
+Let's rigorously derive Noether's theorem in our framework. Consider a continuous transformation parameterized by $$α$$, where $$α = 0$$ is the identity transformation.
 
-<p align="center"><span class="math">\delta\mathcal{A} = \int \left(\frac{\delta\mathcal{A}}{\delta\rho}\delta\rho + \frac{\delta\mathcal{A}}{\delta\mathbf{j}}\delta\mathbf{j}\right) d^DX = 0</span></p>
+**Step 1: Defining the Symmetry Transformation**
 
-Using our master equation and integration by parts:
+For an infinitesimal transformation with parameter $$ε$$:
 
-<p align="center"><span class="math">0 = \int \left[-\Gamma[\rho]\frac{\partial\rho}{\partial T}\delta\rho - \Lambda[\mathbf{j}]\frac{\partial\mathbf{j}}{\partial T}\delta\mathbf{j}\right] d^DX</span></p>
+<p align="center"><span class="math">\rho(\mathbf{X}, T; \varepsilon) = \rho(\mathbf{X}, T) + \varepsilon \frac{\partial \rho}{\partial \alpha}\bigg|{\alpha=0} \equiv \rho + \varepsilon \delta\alpha \rho</span></p>
 
-This yields the conserved current:
+<p align="center"><span class="math">\mathbf{j}(\mathbf{X}, T; \varepsilon) = \mathbf{j}(\mathbf{X}, T) + \varepsilon \frac{\partial \mathbf{j}}{\partial \alpha}\bigg|{\alpha=0} \equiv \mathbf{j} + \varepsilon \delta\alpha \mathbf{j}</span></p>
 
-<p align="center"><span class="math">J^\mu = \frac{\partial\mathcal{L}}{\partial(\partial_\mu\phi)}\delta\phi - K^\mu</span></p>
+Here $$δ_α$$ represents the infinitesimal change under the symmetry transformation.
 
-where $$K^μ$$ vanishes for global symmetries.
+**Step 2: Action Invariance Condition**
+
+For this to be a symmetry, the action must remain invariant:
+
+<p align="center"><span class="math">\mathcal{A}[\rho + \varepsilon \delta_\alpha \rho, \mathbf{j} + \varepsilon \delta_\alpha \mathbf{j}] = \mathcal{A}[\rho, \mathbf{j}]</span></p>
+
+Expanding to first order in $$ε$$:
+
+<p align="center"><span class="math">\delta\mathcal{A} = \int \left(\frac{\delta\mathcal{A}}{\delta\rho}\delta_\alpha\rho + \frac{\delta\mathcal{A}}{\delta\mathbf{j}} \cdot \delta_\alpha\mathbf{j}\right) d^DX , dT = 0</span></p>
+
+**Step 3: On-Shell Analysis**
+
+When the equations of motion are satisfied (on-shell), our master equations give:
+
+<p align="center"><span class="math">\frac{\delta\mathcal{A}}{\delta\rho} = -\Gamma[\rho]\frac{\partial\rho}{\partial T}</span></p>
+
+<p align="center"><span class="math">\frac{\delta\mathcal{A}}{\delta\mathbf{j}} = -\Lambda[\mathbf{j}]\frac{\partial\mathbf{j}}{\partial T}</span></p>
+
+where $$Γ[ρ]$$ and $$Λ[j]$$ are the dissipation functionals.
+
+**Step 4: Deriving the Conservation Law**
+
+Substituting the on-shell conditions into the invariance condition:
+
+<p align="center"><span class="math">0 = -\int \left(\Gamma[\rho]\frac{\partial\rho}{\partial T}\delta_\alpha\rho + \Lambda[\mathbf{j}]\frac{\partial\mathbf{j}}{\partial T} \cdot \delta_\alpha\mathbf{j}\right) d^DX , dT</span></p>
+
+Now, consider the quantity:
+
+<p align="center"><span class="math">\mathcal{Q}(T) = \int \left(\rho , \delta_\alpha\rho + \mathbf{j} \cdot \delta_\alpha\mathbf{j}\right) d^DX</span></p>
+
+Taking its time derivative:
+
+<p align="center"><span class="math">\frac{d\mathcal{Q}}{dT} = \int \left(\frac{\partial\rho}{\partial T}\delta_\alpha\rho + \rho\frac{\partial(\delta_\alpha\rho)}{\partial T} + \frac{\partial\mathbf{j}}{\partial T} \cdot \delta_\alpha\mathbf{j} + \mathbf{j} \cdot \frac{\partial(\delta_\alpha\mathbf{j})}{\partial T}\right) d^DX</span></p>
+
+**Step 5: The Conserved Current**
+
+Using the continuity equation from our framework:
+
+<p align="center"><span class="math">\frac{\partial\rho}{\partial T} + \nabla \cdot \mathbf{j} = \Gamma[\rho]</span></p>
+
+We can construct a conserved current. Define:
+
+<p align="center"><span class="math">J^T = \rho , \delta_\alpha\rho + \mathbf{j} \cdot \delta_\alpha\mathbf{j}</span></p>
+
+<p align="center"><span class="math">\mathbf{J} = \mathbf{j} , \delta_\alpha\rho + \rho , \delta_\alpha\mathbf{j} - \delta_\alpha\rho , \mathbf{j}</span></p>
+
+The conservation law becomes:
+
+<p align="center"><span class="math">\frac{\partial J^T}{\partial T} + \nabla \cdot \mathbf{J} = \Gamma\rho^2 + \Lambda[\mathbf{j}]|\delta_\alpha\mathbf{j}|^2</span></p>
+
+**Step 6: Perfect Conservation in the Absence of Dissipation**
+
+When dissipation vanishes ($$Γ[ρ] = Λ[j] = 0$$), we obtain the perfect conservation law:
+
+<p align="center"><span class="math">\frac{\partial J^T}{\partial T} + \nabla \cdot \mathbf{J} = 0</span></p>
+
+This is Noether's theorem in our framework: every continuous symmetry of the action yields a conserved current $$(J^T, J)$$ when dissipation is absent.
 
 #### The Paradox: Symmetric Laws, Asymmetric Universe
 
@@ -71,7 +127,7 @@ Here's the profound insight our framework reveals:
 Why? Because perfect symmetry means:
 
 * Uniform $$ρ$$ everywhere (no structure)
-* Zero current $$j$$ (no motion)
+* Zero current j (no motion)
 * Maximum entropy (heat death)
 
 From our master equation, this state is unstable! The quantum pressure term forces fluctuations:
@@ -90,15 +146,15 @@ Uniformity breaks but isotropy remains.
 
 **Stage 2: Inflation Breaks Scale Invariance**
 
-Exponential expansion selects a preferred scale:&#x20;
+Exponential expansion selects a preferred scale:
 
-<p align="center"><span class="math">\mathcal{A} \rightarrow \mathcal{A} + \Lambda(\rho - \rho_0)^2</span></p>
+<p align="center"> <span class="math">\mathcal{A} \rightarrow \mathcal{A} + \Lambda(\rho - \rho_0)^2</span></p>
 
 **Stage 3: Electroweak Breaking**
 
 The Higgs mechanism (derived in our framework):&#x20;
 
-<p align="center"><span class="math">SU(2)_L \times U(1)Y \rightarrow U(1)_{EM}</span></p>
+<p align="center"><span class="math">SU(2)_L \times U(1)Y \rightarrow U(1){EM}</span></p>
 
 **Stage 4: Baryogenesis Breaks Matter-Antimatter Symmetry**
 
@@ -115,8 +171,8 @@ Despite symmetry breaking, Noether's theorem guarantees conservation laws:
 | Time translation  | Energy           | Broken (expansion) but locally preserved |
 | Space translation | Momentum         | Perfect in empty space                   |
 | Rotation          | Angular momentum | Perfect                                  |
-| Gauge U(1)        | Electric charge  | Perfect                                  |
-| Gauge SU(3)       | Color charge     | Perfect (but confined)                   |
+| Gauge $$U(1)$$    | Electric charge  | Perfect                                  |
+| Gauge $$SU(3)$$   | Color charge     | Perfect (but confined)                   |
 | CPT combined      | CPT theorem      | Perfect (required by master equation)    |
 
 #### The Experimental Test
@@ -125,7 +181,9 @@ Want to prove the universe's hidden symmetry? Our framework predicts:
 
 **At sufficiently high energy, broken symmetries restore.**
 
-At the LHC, when particles collide at energies approaching the electroweak scale: $$E > 246 \text{ GeV}$$
+At the LHC, when particles collide at energies approaching the electroweak scale:
+
+<p align="center"> <span class="math">E > 246 \text{ GeV}</span></p>
 
 The $$W$$ and $$Z$$ bosons become massless, electromagnetic and weak forces unify—symmetry restoration in action!
 
@@ -137,9 +195,7 @@ YES - The master equation that governs reality has perfect symmetry.
 
 NO - That symmetry must break for anything to exist.
 
-The universe is like a perfectly symmetric equation that can only be solved with asymmetric solutions. The equation: $$x^2 = 4$$
-
-is symmetric under $$x → -x$$, but any specific solution $$(x = 2 or x = -2)$$ breaks that symmetry.
+The universe is like a perfectly symmetric equation that can only be solved with asymmetric solutions. The equation: $$x^2 = 4$$ is symmetric under $$x → -x$$, but any specific solution ($$x = 2 or x = -2$$) breaks that symmetry.
 
 Similarly, our master equation is perfectly symmetric, but the universe it generates cannot be—existence requires broken symmetry.
 
@@ -148,8 +204,8 @@ Similarly, our master equation is perfectly symmetric, but the universe it gener
 To prove the universe's symmetries using Noether's theorem:
 
 1. **Write the action**: Start with our master action functional
-2. **Identify symmetries**: Find transformations leaving ℋ invariant
-3. **Apply Noether**: Each continuous symmetry yields a conservation law
+2. **Identify symmetries**: Find transformations leaving $$\mathcal{A}$$ invariant
+3. **Apply Noether**: Each continuous symmetry yields a conservation law via the current $$(J^T, J)$$
 4. **Check breaking**: Determine which symmetries are spontaneously broken
 5. **Verify experimentally**: Confirm predicted conservation laws hold
 
