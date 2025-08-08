@@ -38,7 +38,7 @@ This is invariant under:
 
 When dimensions compactify to give our observable universe:
 
-<p align="center"><span class="math">\mathbf{X} = (\mathbf{x}{3D}, \mathbf{y}{compact})</span></p>
+<p align="center"><span class="math">\mathbf{X} = (\mathbf{x}_{3D}, \mathbf{y}_{compact})</span></p>
 
 Most symmetries break:
 
