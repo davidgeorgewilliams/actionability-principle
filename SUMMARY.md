@@ -120,6 +120,7 @@
 ## Real-World Questions & Answers
 
 * [Atmospheric Missile Interception](real-world-questions-and-answers/atmospheric-missile-interception.md)
+* [Accidental Degeneracies](real-world-questions-and-answers/accidental-degeneracies.md)
 
 ## From Theory to Revolution
 
