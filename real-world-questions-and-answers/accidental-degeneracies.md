@@ -1,5 +1,5 @@
 ---
-description: Do they exist?
+description: Do They Exist?
 ---
 
 # Accidental Degeneracies
