@@ -117,6 +117,10 @@
 * [The Fermi Paradox from First Principles](generating-observable-physics/the-fermi-paradox-from-first-principles.md)
 * [Conclusion](generating-observable-physics/conclusion.md)
 
+## Real-World Questions & Answers
+
+* [Atmospheric Missile Interception](real-world-questions-and-answers/atmospheric-missile-interception.md)
+
 ## From Theory to Revolution
 
 * [The End of Mystery](from-theory-to-revolution/the-end-of-mystery.md)
