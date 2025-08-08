@@ -121,6 +121,7 @@
 
 * [Accidental Degeneracies](real-world-questions-and-answers/accidental-degeneracies.md)
 * [Atmospheric Missile Interception](real-world-questions-and-answers/atmospheric-missile-interception.md)
+* [Impulse Trajectory from Earth to Mars](real-world-questions-and-answers/impulse-trajectory-from-earth-to-mars.md)
 * [Universal Symmetry](real-world-questions-and-answers/universal-symmetry.md)
 
 ## From Theory to Revolution
