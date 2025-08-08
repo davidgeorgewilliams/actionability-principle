@@ -4,10 +4,6 @@ description: What Arrives First?
 
 # Atmospheric Missile Interception
 
-## Real-World Applications: The Master Equation in Action
-
-### Question: Atmospheric Missile Interception - What Arrives First?
-
 **From StackExchange Physics:** _"Ballistic missiles that are intercepted in the atmosphere - like the current situation with Iranian missiles fired at Israel - create both explosions which are heard approximately a minute later and shrapnel. What percent of the shrapnel - if any - could impact before hearing the explosion on the ground?"_
 
 ### Answer: The Master Equation Reveals a Terrifying Truth
