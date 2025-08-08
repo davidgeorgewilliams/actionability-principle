@@ -98,7 +98,7 @@ Exponential expansion selects a preferred scale:&#x20;
 
 The Higgs mechanism (derived in our framework):&#x20;
 
-<p align="center"><span class="math">SU(2)_L \times U(1)Y \rightarrow U(1){EM}</span></p>
+<p align="center"><span class="math">SU(2)_L \times U(1)Y \rightarrow U(1)_{EM}</span></p>
 
 **Stage 4: Baryogenesis Breaks Matter-Antimatter Symmetry**
 
