@@ -125,6 +125,7 @@
 * [Universal Symmetry](real-world-questions-and-answers/universal-symmetry.md)
 * [Verifying the Holographic Principle](real-world-questions-and-answers/verifying-the-holographic-principle.md)
 * [What is Interference](real-world-questions-and-answers/what-is-interference.md)
+* [Energy and Redshift](real-world-questions-and-answers/energy-and-redshift.md)
 
 ## From Theory to Revolution
 
