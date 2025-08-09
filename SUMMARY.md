@@ -124,6 +124,7 @@
 * [Impulse Trajectory from Earth to Mars](real-world-questions-and-answers/impulse-trajectory-from-earth-to-mars.md)
 * [Universal Symmetry](real-world-questions-and-answers/universal-symmetry.md)
 * [Verifying the Holographic Principle](real-world-questions-and-answers/verifying-the-holographic-principle.md)
+* [What is Interference](real-world-questions-and-answers/what-is-interference.md)
 
 ## From Theory to Revolution
 
