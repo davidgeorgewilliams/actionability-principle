@@ -129,6 +129,11 @@
 * [Verifying the Holographic Principle](real-world-questions-and-answers/verifying-the-holographic-principle.md)
 * [What is Interference?](real-world-questions-and-answers/what-is-interference.md)
 
+## Artificial Intelligence and Machine Learning
+
+* [The Fundamental Revelation](artificial-intelligence-and-machine-learning/the-fundamental-revelation.md)
+* [Deep Neural Networks as Discretized Flow Fields](artificial-intelligence-and-machine-learning/deep-neural-networks-as-discretized-flow-fields.md)
+
 ## From Theory to Revolution
 
 * [The End of Mystery](from-theory-to-revolution/the-end-of-mystery.md)
