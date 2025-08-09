@@ -136,6 +136,10 @@
 * [Maximum Entropy and the Dissipation Principle](artificial-intelligence-and-machine-learning/maximum-entropy-and-the-dissipation-principle.md)
 * [Transformers as Geometric Flow in Information Space](artificial-intelligence-and-machine-learning/transformers-as-geometric-flow-in-information-space.md)
 * [Universal Function Approximation](artificial-intelligence-and-machine-learning/universal-function-approximation.md)
+* [The Manifold Hypothesis as Dimensional Reduction](artificial-intelligence-and-machine-learning/the-manifold-hypothesis-as-dimensional-reduction.md)
+* [Reinforcement Learning as Action Optimization Over Trajectories](artificial-intelligence-and-machine-learning/reinforcement-learning-as-action-optimization-over-trajectories.md)
+* [Loss Landscapes and Critical Phenomena](artificial-intelligence-and-machine-learning/loss-landscapes-and-critical-phenomena.md)
+* [Page 1](artificial-intelligence-and-machine-learning/page-1.md)
 
 ## From Theory to Revolution
 
