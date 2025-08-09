@@ -74,7 +74,7 @@ They must agree because they're solving the same problem: finding the configurat
 
 The GPE is the Schrödinger equation for the condensate wavefunction $$ψ = √ρ e^(iS/ℏ)$$:
 
-\$$i\hbar\frac{\partial\psi}{\partial t} = -\frac{\hbar^2}{2m}\nabla^2\psi + V\_{ext}\psi + g|\psi|^2\psi\$$
+<p align="center"><span class="math">i\hbar\frac{\partial\psi}{\partial t} = -\frac{\hbar^2}{2m}\nabla^2\psi + V_{ext}\psi + g|\psi|^2\psi</span></p>
 
 This emerges from our master equation when:
 
