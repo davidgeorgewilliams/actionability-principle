@@ -108,8 +108,8 @@ Our framework predicts surface tension magnitude:
 
 For water-air:
 
-* $$ρ_water ≈ 1000 kg/m³$$
-* $$ρ_air ≈ 1 kg/m³$$
+* $$ρ_{water} ≈ 1000 kg/m³$$
+* $$ρ_{air} ≈ 1 kg/m³$$
 * $$κ ≈ 10⁻⁷ J·m⁵/kg²$$
 
 This gives $$γ ≈ 72 mN/m$$, matching experiment!
