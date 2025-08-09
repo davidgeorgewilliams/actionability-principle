@@ -28,7 +28,7 @@ The cross term $$2\mathbf{E}_1 \cdot \mathbf{E}_2$$ is the interference—it ALW
 
 **Observable Interference Pattern** (Requires coherence): For the interference term to create a stable, observable pattern:&#x20;
 
-<p align="center"><span class="math">\langle 2\mathbf{E}_1 \cdot \mathbf{E}2 \rangle{time} \neq 0</span></p>
+<p align="center"><span class="math">\langle 2\mathbf{E}_1 \cdot \mathbf{E}2\rangle_{time} \neq 0</span></p>
 
 This time average only survives when waves maintain consistent phase relationship (coherence).
 
