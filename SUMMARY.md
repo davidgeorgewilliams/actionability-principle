@@ -139,7 +139,7 @@
 * [The Manifold Hypothesis as Dimensional Reduction](artificial-intelligence-and-machine-learning/the-manifold-hypothesis-as-dimensional-reduction.md)
 * [Reinforcement Learning as Action Optimization Over Trajectories](artificial-intelligence-and-machine-learning/reinforcement-learning-as-action-optimization-over-trajectories.md)
 * [Loss Landscapes and Critical Phenomena](artificial-intelligence-and-machine-learning/loss-landscapes-and-critical-phenomena.md)
-* [Page 1](artificial-intelligence-and-machine-learning/page-1.md)
+* [Revolutionary Predictions for AI](artificial-intelligence-and-machine-learning/revolutionary-predictions-for-ai.md)
 
 ## From Theory to Revolution
 
