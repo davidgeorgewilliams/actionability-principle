@@ -140,6 +140,7 @@
 * [Reinforcement Learning as Action Optimization Over Trajectories](artificial-intelligence-and-machine-learning/reinforcement-learning-as-action-optimization-over-trajectories.md)
 * [Loss Landscapes and Critical Phenomena](artificial-intelligence-and-machine-learning/loss-landscapes-and-critical-phenomena.md)
 * [Revolutionary Predictions for AI](artificial-intelligence-and-machine-learning/revolutionary-predictions-for-ai.md)
+* [The Ultimate Revelation](artificial-intelligence-and-machine-learning/the-ultimate-revelation.md)
 
 ## From Theory to Revolution
 
