@@ -93,10 +93,10 @@ The stress tensor at the interface is:
 
 This shows:
 
-* $$σ_xx = -γ$$ (tension in x-direction)
-* $$σ_yy = -γ$$ (tension in y-direction)
+* $$σ_xx = -γ$$ (tension in $$x$$-direction)
+* $$σ_yy = -γ$$ (tension in $$y$$-direction)
 * $$σ_zz = 0$$ (no stress normal to interface)
-* All off-diagonal terms = 0 (no shear stress)
+* All off-diagonal terms = $$0$$ (no shear stress)
 
 The negative signs indicate tension (pulling inward). The zero zz-component confirms that moving the interface normally doesn't change the gradient magnitude - all the stress is confined to the plane of the interface.
 
