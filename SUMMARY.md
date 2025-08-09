@@ -135,6 +135,7 @@
 * [Deep Neural Networks as Discretized Flow Fields](artificial-intelligence-and-machine-learning/deep-neural-networks-as-discretized-flow-fields.md)
 * [Maximum Entropy and the Dissipation Principle](artificial-intelligence-and-machine-learning/maximum-entropy-and-the-dissipation-principle.md)
 * [Transformers as Geometric Flow in Information Space](artificial-intelligence-and-machine-learning/transformers-as-geometric-flow-in-information-space.md)
+* [Universal Function Approximation](artificial-intelligence-and-machine-learning/universal-function-approximation.md)
 
 ## From Theory to Revolution
 
