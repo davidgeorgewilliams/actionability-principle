@@ -2,7 +2,7 @@
 
 #### The Flow Interpretation
 
-A neural network with LL L layers implements discretized flow in information space:
+A neural network with $$L$$ layers implements discretized flow in information space:
 
 <p align="center"><span class="math">\mathbf{x}_{l+1} = f_l(\mathbf{x}_l; \theta_l)</span></p>
 
