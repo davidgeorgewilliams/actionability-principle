@@ -55,7 +55,6 @@
 * [The Wrong Questions Multiply](the-wrong-questions/the-wrong-questions-multiply.md)
 * [The Pattern Repeats](the-wrong-questions/the-pattern-repeats.md)
 * [The Cost of Wrong Questions](the-wrong-questions/the-cost-of-wrong-questions.md)
-* [Debunking MIT's "Which-Way Information"](the-wrong-questions/debunking-mits-which-way-information.md)
 * [The Revolutionary Alternative](the-wrong-questions/the-revolutionary-alternative.md)
 * [The Revolutionary Truth](the-wrong-questions/the-revolutionary-truth.md)
 
@@ -110,6 +109,7 @@
 * [The Fine Structure Constant](generating-observable-physics/the-fine-structure-constant.md)
 * [Defeating Wave-Particle Duality](generating-observable-physics/defeating-wave-particle-duality.md)
 * [Photon Antibunching and Hong-Ou-Mandel](generating-observable-physics/photon-antibunching-and-hong-ou-mandel.md)
+* [Debunking MIT's "Which-Way Information"](generating-observable-physics/debunking-mits-which-way-information.md)
 * [Neutrinos](generating-observable-physics/neutrinos.md)
 * [Black Holes](generating-observable-physics/black-holes.md)
 * [Gravitational Waves](generating-observable-physics/gravitational-waves.md)
