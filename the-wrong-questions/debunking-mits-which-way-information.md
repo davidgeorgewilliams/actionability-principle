@@ -60,7 +60,7 @@ This is like claiming that when one of two bells rings, you've detected the "pat
 
 The paper's discussion of the "quantum eraser" reveals the game:
 
-> "The recorded information can be erased by a quantum eraser, which performs a π/2 rotation on the two atomic states"
+> "The recorded information can be erased by a quantum eraser, which performs a $$π/2$$ rotation on the two atomic states"
 
 They claim this "erases which-way information" and restores interference. But look at what's physically happening:
 
@@ -82,7 +82,7 @@ They've confessed that their central claim - that fringe visibility reduction pr
 
 ### The 2D Motion Proof That Destroys Their Theory
 
-When extending to 2D motion, the MIT team discovers something their theory can't explain:
+When extending to $$2D$$ motion, the MIT team discovers something their theory can't explain:
 
 > "The displacement in z is common mode for the interference between two modes and does not affect the interference pattern"
 
