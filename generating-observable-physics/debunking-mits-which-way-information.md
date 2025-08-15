@@ -95,7 +95,7 @@ But longitudinal motion is clearly detected yet doesn't affect interference! Why
 
 The truth our framework reveals: **Interference is disrupted by mechanical perturbation of the wave, not by abstract "information."**
 
-### Short vs. Long Pulses: The Final Nail
+### Short vs. Long Pulses
 
 The MIT paper makes much of the difference between short and long pulses:
 

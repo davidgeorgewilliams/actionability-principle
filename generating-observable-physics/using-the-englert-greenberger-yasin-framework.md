@@ -59,7 +59,7 @@ Their solution: Add a dispersive element that phase-shifts one frequency by π, 
 
 In EGY terms: $$V$$ **dropped due to spectral mixing, but** $$D$$ **remained near zero** because no actual path information was recorded.
 
-### The 2D Extension: The Final Nail
+### The 2D Extension
 
 When the MIT team adds longitudinal motion (Configuration $$D$$), something remarkable happens:
 
@@ -120,7 +120,9 @@ Our framework naturally incorporates this distinction:
 * **Entanglement** reduces unconditional V without necessarily creating distinguishable path markers
 * **Common-mode** effects don't break interference because they don't correlate with paths
 
-The master equation: $$\frac{\delta \mathcal{A}}{\delta \rho} = -\Gamma[\rho] \frac{\partial \rho}{\partial T}$$
+The master equation:&#x20;
+
+<p align="center"><span class="math">\frac{\delta \mathcal{A}}{\delta \rho} = -\Gamma[\rho] \frac{\partial \rho}{\partial T}</span></p>
 
 Shows that dissipation and decoherence (reducing $$V$$) are distinct from information storage (increasing $$D$$).
 
