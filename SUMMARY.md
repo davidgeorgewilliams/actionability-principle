@@ -58,16 +58,6 @@
 * [The Revolutionary Alternative](the-wrong-questions/the-revolutionary-alternative.md)
 * [The Revolutionary Truth](the-wrong-questions/the-revolutionary-truth.md)
 
-## Emergence as Scale Mismatch
-
-* [The Fundamental Misdiagnosis](emergence-as-scale-mismatch/the-fundamental-misdiagnosis.md)
-* [The Actionability Framework](emergence-as-scale-mismatch/the-actionability-framework.md)
-* [Scale Mismatch Masquerading as Emergence](emergence-as-scale-mismatch/scale-mismatch-masquerading-as-emergence.md)
-* [The Death of Downward Causation](emergence-as-scale-mismatch/the-death-of-downward-causation.md)
-* [The Actionability Test](emergence-as-scale-mismatch/the-actionability-test.md)
-* [Why We Resist the Right Scale](emergence-as-scale-mismatch/why-we-resist-the-right-scale.md)
-* [The Revolutionary Implications](emergence-as-scale-mismatch/the-revolutionary-implications.md)
-
 ## Unifying Gravity, Mind, and Markets
 
 * [The Return to Clarity](unifying-gravity-mind-and-markets/the-return-to-clarity.md)
