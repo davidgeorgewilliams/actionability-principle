@@ -118,6 +118,7 @@
 * [The Emergence of Intelligence](generating-observable-physics/the-emergence-of-intelligence.md)
 * [The Fermi Paradox from First Principles](generating-observable-physics/the-fermi-paradox-from-first-principles.md)
 * [Conclusion](generating-observable-physics/conclusion.md)
+* [Using the Englert-Greenberger-Yasin Framework](generating-observable-physics/using-the-englert-greenberger-yasin-framework.md)
 
 ## Real-World Questions & Answers
 
