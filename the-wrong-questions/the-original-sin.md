@@ -1,5 +1,5 @@
 ---
-description: Assuming What We're Trying to Prove
+description: Assuming What You're Trying to Prove
 ---
 
 # The Original Sin
