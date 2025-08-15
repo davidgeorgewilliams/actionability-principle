@@ -110,6 +110,7 @@
 * [Defeating Wave-Particle Duality](generating-observable-physics/defeating-wave-particle-duality.md)
 * [Photon Antibunching and Hong-Ou-Mandel](generating-observable-physics/photon-antibunching-and-hong-ou-mandel.md)
 * [Debunking MIT's "Which-Way Information"](generating-observable-physics/debunking-mits-which-way-information.md)
+* [Using the Englert-Greenberger-Yasin Framework](generating-observable-physics/using-the-englert-greenberger-yasin-framework.md)
 * [Neutrinos](generating-observable-physics/neutrinos.md)
 * [Black Holes](generating-observable-physics/black-holes.md)
 * [Gravitational Waves](generating-observable-physics/gravitational-waves.md)
@@ -118,7 +119,6 @@
 * [The Emergence of Intelligence](generating-observable-physics/the-emergence-of-intelligence.md)
 * [The Fermi Paradox from First Principles](generating-observable-physics/the-fermi-paradox-from-first-principles.md)
 * [Conclusion](generating-observable-physics/conclusion.md)
-* [Using the Englert-Greenberger-Yasin Framework](generating-observable-physics/using-the-englert-greenberger-yasin-framework.md)
 
 ## Real-World Questions & Answers
 
