@@ -116,7 +116,7 @@ Every phenomenon in Ketterle's experiment emerges naturally from our framework w
 
 1. **Electromagnetic waves are continuous fields** described by: $$\rho_{EM}(\mathbf{x},t) = \rho_0 + A\cos(kx - \omega t)$$
 2. **Atoms are discrete solitons** with quantized energy levels
-3. **Wave-atom interaction** transfers energy only when the accumulated phase reaches: $$\int \mathbf{E} \cdot \mathbf{v} , dt = 2\pi n\hbar$$
+3. **Wave-atom interaction** transfers energy only when the accumulated phase reaches: $$\int \mathbf{E} \cdot \mathbf{v} dt = 2\pi n\hbar$$
 4. **Atomic recoil** physically disrupts the scattered wave pattern
 5. **"Quantum erasers"** mechanically reverse this disruption
 
