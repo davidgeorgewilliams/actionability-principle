@@ -30,7 +30,7 @@ The bead is a **localized soliton** in the energy density field:&#x20;
 
 The string provides dissipation through the coupling:&#x20;
 
-<p align="center"><span class="math">\Gamma[\rho] = \gamma \int \rho_{\text{bead}} \cdot \rho_{\text{string}} , d^3x</span></p>
+<p align="center"><span class="math">\Gamma[\rho] = \gamma \int \rho_{\text{bead}} \cdot \rho_{\text{string}}  d^3x</span></p>
 
 ### Their "Exact Solution" - Our One-Step Derivation
 
