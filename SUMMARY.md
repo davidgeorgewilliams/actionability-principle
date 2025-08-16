@@ -101,6 +101,7 @@
 * [Photon Antibunching and Hong-Ou-Mandel](generating-observable-physics/photon-antibunching-and-hong-ou-mandel.md)
 * [Debunking MIT's "Which-Way Information"](generating-observable-physics/debunking-mits-which-way-information.md)
 * [Using the Englert-Greenberger-Yasin Framework](generating-observable-physics/using-the-englert-greenberger-yasin-framework.md)
+* [The Quantum Lamb](generating-observable-physics/the-quantum-lamb.md)
 * [Neutrinos](generating-observable-physics/neutrinos.md)
 * [Black Holes](generating-observable-physics/black-holes.md)
 * [Gravitational Waves](generating-observable-physics/gravitational-waves.md)
