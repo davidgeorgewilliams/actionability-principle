@@ -72,7 +72,7 @@ We don't need to invoke squeezed states - they emerge naturally from action mini
 
 **Their calculation**: Complex contour integration yielding&#x20;
 
-<p align="center"><span class="math">\Gamma = \frac{\omega_r}{2}\sqrt{1 + \frac{\Gamma_r^4}{\omega_r^4} - 1}</span></p>
+<p align="center"><span class="math">\Gamma = \frac{\omega_r}{\sqrt{2}}\left(\sqrt{1 + \frac{\Gamma_r^4}{\omega_r^4}} - 1\right)^{1/2}</span></p>
 
 **Our result**: The decay rate is just the dissipation functional evaluated at the soliton:&#x20;
 
