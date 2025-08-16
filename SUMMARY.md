@@ -104,6 +104,7 @@
 * [The Quantum Lamb](generating-observable-physics/the-quantum-lamb.md)
 * [Neutrinos](generating-observable-physics/neutrinos.md)
 * [Black Holes](generating-observable-physics/black-holes.md)
+* [Quantum Gravity](generating-observable-physics/quantum-gravity.md)
 * [Gravitational Waves](generating-observable-physics/gravitational-waves.md)
 * [Dark Matter and the Hidden Universe](generating-observable-physics/dark-matter-and-the-hidden-universe.md)
 * [Self-Referential Loops and Consciousness](generating-observable-physics/self-referential-loops-and-consciousness.md)
