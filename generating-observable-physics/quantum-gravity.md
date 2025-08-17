@@ -112,6 +112,17 @@ This modifies the uncertainty principle at small scales.
 2. **Atomic interferometry**: Superpositions of different masses should decohere as: $$\tau_{decohere} = \frac{\hbar}{Gm^2/r}$$
 3. **Cosmological observations**: CMB should show Planck-scale corrections: $$C_\ell \to C_\ell\left(1 + \frac{\ell_P^2 k^2}{a^2}\right)$$
 
+This formula describes how quantum gravity effects cause higher-frequency gravitational waves to travel slightly slower than lower-frequency ones. The effect is tiny (proportional to the Planck length squared) but potentially measurable for high-frequency waves from distant sources.
+
+The physical interpretation:
+
+* $$D$$ = distance to source
+* $$f$$ = gravitational wave frequency
+* $$ℓ_P$$ = Planck length ($$\sim10^{-35} m$$)
+* $$c³$$ = shows this is a third-order correction to the speed of light
+
+For a merger at 1 billion light-years with $$f = 100 Hz$$, this gives a delay of only $$\sim10^-23$$ seconds between high and low frequencies - incredibly small but potentially detectable with future gravitational wave detectors!
+
 #### Future Tests
 
 1. **Table-top quantum gravity**: Entangle masses of $$~10^{-14} kg$$
