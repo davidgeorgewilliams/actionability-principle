@@ -106,7 +106,7 @@ This modifies the uncertainty principle at small scales.
 
 #### Near-Term (Current Technology)
 
-1.  **Gravitational wave dispersion**: $$\Delta t = \frac{D}{c}\frac{(2\pi f)^2\ell_P^2}{c^2}$$
+1.  **Gravitational wave dispersion**: $$\Delta t = \frac{D(2\pi f)^2\ell_P^2}{c^3}$$
 
     LIGO should see frequency-dependent delays from distant mergers.
 2. **Atomic interferometry**: Superpositions of different masses should decohere as: $$\tau_{decohere} = \frac{\hbar}{Gm^2/r}$$
