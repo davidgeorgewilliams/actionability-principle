@@ -160,29 +160,35 @@ Master space projection creates slight directional bias:&#x20;
 
 #### 2. Scale-Dependent Isotropy
 
-Isotropy breaks at Planck scale with fractal dimension: \$$D\_f = 3 - \epsilon\left(\frac{\ell}{\ell\_P}\right)^{1/2}\$$
+Isotropy breaks at Planck scale with fractal dimension:&#x20;
+
+<p align="center"><span class="math">D_f = 3 - \epsilon\left(\frac{\ell}{\ell_P}\right)^{1/2}</span></p>
 
 #### 3. Density-Anisotropy Correlation
 
-Local overdensities correlate with anisotropy: \$$\frac{\Delta T}{T} \propto \sqrt{\rho/\rho\_0}\$$
+Local overdensities correlate with anisotropy:
+
+<p align="center"> <span class="math">\frac{\Delta T}{T} \propto \sqrt{\rho/\rho_0}</span></p>
 
 #### 4. Time Evolution
 
-Isotropy should increase with cosmic time: \$$\sigma\_{\text{aniso\}}(t) \sim t^{-1/2}\$$
+Isotropy should increase with cosmic time:&#x20;
+
+<p align="center"><span class="math">\sigma_{\text{aniso}}(t) \sim t^{-1/2}</span></p>
 
 ### The Mathematical Proof
 
 Starting from the master equation:
 
-\$$\frac{\delta A}{\delta \rho} = -\Gamma\[\rho]\frac{\partial \rho}{\partial T}\$$
+<p align="center"><span class="math">\frac{\delta A}{\delta \rho} = -\Gamma[\rho]\frac{\partial \rho}{\partial T}</span></p>
 
-For anisotropic perturbation $\delta\rho(\theta, \phi)$:
+For anisotropic perturbation $$\delta\rho(\theta, \phi)$$:
 
-\$$A\[\rho\_0 + \delta\rho] = A\[\rho\_0] + \int \delta\rho , Y\_{\ell m}(\theta, \phi) , d\Omega\$$
+<p align="center"><span class="math">A[\rho_0 + \delta\rho] = A[\rho_0] + \int \delta\rho , Y_{\ell m}(\theta, \phi) , d\Omega</span></p>
 
-The spherical harmonic modes $Y\_{\ell m}$ with $\ell > 0$ increase action. Therefore:
+The spherical harmonic modes $$Y_{\ell m}$$ with $$\ell > 0$$ increase action. Therefore:
 
-\$$\frac{\delta A}{\delta Y\_{\ell m\}} > 0 \text{ for } \ell > 0\$$
+<p align="center"><span class="math">\frac{\delta A}{\delta Y_{\ell m}} > 0 \text{ for } \ell > 0</span></p>
 
 Only $$\ell = 0$$ (isotropic mode) minimizes action. QED.
 
@@ -199,6 +205,6 @@ The universe is isotropic for the same reason raindrops are spherical, crystals 
 
 The master equation ensures this naturally:
 
-\$$\frac{\delta A}{\delta \rho} = -\Gamma\[\rho]\frac{\partial \rho}{\partial T} \Rightarrow \text{isotropy}\$$
+<p align="center"><span class="math">\frac{\delta A}{\delta \rho} = -\Gamma[\rho]\frac{\partial \rho}{\partial T} \Rightarrow \text{isotropy}</span></p>
 
 No fine-tuning. No inflation. No mystery. Just energy flowing toward its natural, isotropic minimum—creating the remarkably uniform universe we observe.
