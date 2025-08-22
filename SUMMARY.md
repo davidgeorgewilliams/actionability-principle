@@ -107,6 +107,7 @@
 * [Quantum Gravity](generating-observable-physics/quantum-gravity.md)
 * [Gravitational Waves](generating-observable-physics/gravitational-waves.md)
 * [Dark Matter and the Hidden Universe](generating-observable-physics/dark-matter-and-the-hidden-universe.md)
+* [The Death of Singularities](generating-observable-physics/the-death-of-singularities.md)
 * [Self-Referential Loops and Consciousness](generating-observable-physics/self-referential-loops-and-consciousness.md)
 * [The Emergence of Intelligence](generating-observable-physics/the-emergence-of-intelligence.md)
 * [The Fermi Paradox from First Principles](generating-observable-physics/the-fermi-paradox-from-first-principles.md)
