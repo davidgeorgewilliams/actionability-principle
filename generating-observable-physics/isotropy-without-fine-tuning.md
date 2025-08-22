@@ -184,7 +184,7 @@ Starting from the master equation:
 
 For anisotropic perturbation $$\delta\rho(\theta, \phi)$$:
 
-<p align="center"><span class="math">A[\rho_0 + \delta\rho] = A[\rho_0] + \int \delta\rho , Y_{\ell m}(\theta, \phi) , d\Omega</span></p>
+<p align="center"><span class="math">A[\rho_0 + \delta\rho] = A[\rho_0] + \int \delta\rho  Y_{\ell m}(\theta, \phi)  d\Omega</span></p>
 
 The spherical harmonic modes $$Y_{\ell m}$$ with $$\ell > 0$$ increase action. Therefore:
 
