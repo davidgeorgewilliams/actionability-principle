@@ -77,7 +77,7 @@ This gives Hawking temperature:
 
 The crucial difference from Hawking's calculation: the radiation is correlated with the interior through master space:&#x20;
 
-<p align="center"><span class="math">\rho_{\text{radiation}}(\mathbf{x}, t) = \text{Tr}{\perp}[\rho{\text{total}}(\mathbf{X}, T)]</span></p>
+<p align="center"><span class="math">\rho_{\text{radiation}}(\mathbf{x}, t) = \text{Tr}{\perp}[\rho_{\text{total}}(\mathbf{X}, T)]</span></p>
 
 The trace over perpendicular dimensions creates subtle correlations in the radiation—information emerges scrambled but intact.
 

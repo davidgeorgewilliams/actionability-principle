@@ -18,7 +18,7 @@ Our framework's answer: isotropy is the natural minimum-action state. The univer
 
 The information geometry term $$\mathcal{R}[\rho]$$ acts as a cosmic equalizer:
 
-<p align="center"><span class="math">\mathcal{R}[\rho] = \int \rho \log \rho d^D X</span></p>
+<p align="center"><span class="math">\mathcal{R}[\rho] = \int \rho \log (\rho) d^D X</span></p>
 
 This term penalizes:
 
