@@ -12,7 +12,7 @@ Roy Herbert's "Chronoflux Framework" presents an elaborate mathematical structur
 
 Roy's framework begins by **postulating** an action (equation 3) with multiple arbitrary terms:
 
-<p align="center"><span class="math">S = \int_{M_5} d^5x \sqrt{|g|} \left[\frac{1}{2\kappa_5}R^{(5)} + \mathcal{L}H + \mathcal{L}{bio} + \mathcal{L}\psi + \mathcal{L}{int}\right] + S_{boundary}</span></p>
+<p align="center"><span class="math">S = \int_{M_5} d^5x \sqrt{|g|} \left[\frac{1}{2\kappa_5}R^{(5)} + \mathcal{L}_H + \mathcal{L}_{bio} + \mathcal{L}_\psi + \mathcal{L}_{int}\right] + S_{boundary}</span></p>
 
 This is then supplemented with three arbitrary coupling constants $$(λ₁, λ₂, λ₃)$$ whose values and physical meaning are never justified.
 
