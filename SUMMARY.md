@@ -115,6 +115,10 @@
 * [The Fermi Paradox from First Principles](generating-observable-physics/the-fermi-paradox-from-first-principles.md)
 * [Conclusion](generating-observable-physics/conclusion.md)
 
+## Critiques of Competing Frameworks
+
+* [The Chronoflux Framework: A Cautionary Tale](critiques-of-competing-frameworks/the-chronoflux-framework-a-cautionary-tale.md)
+
 ## Real-World Questions & Answers
 
 * [Accidental Degeneracies](real-world-questions-and-answers/accidental-degeneracies.md)
