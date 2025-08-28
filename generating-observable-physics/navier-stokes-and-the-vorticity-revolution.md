@@ -14,15 +14,15 @@ with $$\nu>0$$. We take either rapidly decaying data on $$\mathbb{R}^3$$ or mean
 
 Denote by $$P$$ the Helmholtz-Leray projector onto divergence-free vector fields. The projected form is:
 
-$$\partial_t v + P[(v\cdot\nabla)v] = \nu,\Delta v \tag{NS}$$
+<p align="center"><span class="math">\partial_t v + P[(v\cdot\nabla)v] = \nu,\Delta v \tag{NS}</span></p>
 
 Define vorticity $$\omega := \nabla\times v$$. Using $$\nabla\cdot v=0$$, the vorticity equation is:
 
-$$\partial_t \omega = \nabla\times( v\times \omega ) + \nu\Delta \omega \tag{V}$$
+<p align="center"><span class="math">\partial_t \omega = \nabla\times( v\times \omega ) + \nu\Delta \omega \tag{V}</span></p>
 
 Velocity is recovered from vorticity by the **Biot-Savart operator**:
 
-$$v = \mathcal{K}\omega := \nabla\times(-\Delta)^{-1} P\omega \tag{BS}$$
+<p align="center"><span class="math">v = \mathcal{K}\omega := \nabla\times(-\Delta)^{-1} P\omega \tag{BS}</span></p>
 
 All operators $$P$$ and $$\mathcal{K}$$ below are those of the chosen $$\Omega$$.
 
@@ -43,17 +43,17 @@ Define kinetic energy $$E(t) = \tfrac{1}{2}\int_\Omega |v|^2dx$$. Then:
 
 In vorticity variables, energy is the nonlocal quadratic form:
 
-$$E[\omega] = \tfrac{1}{2}\langle \omega,\mathcal{K},\omega\rangle,\qquad \frac{\delta E}{\delta \omega} = \mathcal{K}\omega = v \tag{E}$$
+<p align="center"><span class="math">E[\omega] = \tfrac{1}{2}\langle \omega,\mathcal{K},\omega\rangle,\qquad \frac{\delta E}{\delta \omega} = \mathcal{K}\omega = v \tag{E}</span></p>
 
 where $$\mathcal{K}$$ is the **tensor** Biot-Savart operator (not a scalar Coulomb kernel).
 
 Enstrophy $$\mathcal{E}(t) = \tfrac{1}{2}\int |\omega|^2dx$$ evolves by:
 
-$$\frac{d}{dt},\mathcal{E}(t) = -\int \omega\cdot[(\omega\cdot\nabla)v]dx - \nu\int |\nabla\omega|^2 dx \tag{EN}$$
+<p align="center"><span class="math">\frac{d}{dt},\mathcal{E}(t) = -\int \omega\cdot[(\omega\cdot\nabla)v]dx - \nu\int |\nabla\omega|^2 dx \tag{EN}</span></p>
 
 **BKM continuation criterion**: A smooth solution continues past $$T>0$$ provided:
 
-$$\int_0^{T}||\omega(\cdot,t)||_{L^{\infty}}dt < \infty \tag{BKM}$$
+<p align="center"><span class="math">\int_0^{T}||\omega(\cdot,t)||_{L^{\infty}}dt &#x3C; \infty \tag{BKM}</span></p>
 
 ### 4. Geometry: Reversible + Irreversible
 
@@ -67,7 +67,7 @@ Viscosity adds the symmetric dissipative part $$\nu\Delta\omega$$. Any regulariz
 
 Motivated by the quantum pressure term $$\frac{\kappa}{2}(\nabla\sqrt{\rho})^2$$ from the master action, we augment NS with a Korteweg-type stress:
 
-$$\partial_t v_\kappa + P[(v_\kappa\cdot\nabla) v_\kappa] = \nu\Delta v_\kappa  -  \nabla\cdot \mathbf{T}\kappa(\rho\kappa),\qquad \nabla\cdot v_\kappa=0 \tag{NS$_\kappa$}$$
+<p align="center"><span class="math">\partial_t v_\kappa + P[(v_\kappa\cdot\nabla) v_\kappa] = \nu\Delta v_\kappa  -  \nabla\cdot \mathbf{T}\kappa(\rho\kappa),\qquad \nabla\cdot v_\kappa=0 \tag{NS$_\kappa$}</span></p>
 
 where:
 
