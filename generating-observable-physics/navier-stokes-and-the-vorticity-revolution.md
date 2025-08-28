@@ -1,5 +1,5 @@
 ---
-description: A Rigorous Framework
+description: Clay-Ready Framework
 ---
 
 # Navier-Stokes and the Vorticity Revolution
