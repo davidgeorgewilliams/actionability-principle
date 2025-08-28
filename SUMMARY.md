@@ -102,6 +102,7 @@
 * [Debunking MIT's "Which-Way Information"](generating-observable-physics/debunking-mits-which-way-information.md)
 * [Using the Englert-Greenberger-Yasin Framework](generating-observable-physics/using-the-englert-greenberger-yasin-framework.md)
 * [The Quantum Lamb](generating-observable-physics/the-quantum-lamb.md)
+* [Navier-Stokes and the Vorticity Revolution](generating-observable-physics/navier-stokes-and-the-vorticity-revolution.md)
 * [Neutrinos](generating-observable-physics/neutrinos.md)
 * [Black Holes](generating-observable-physics/black-holes.md)
 * [Quantum Entanglement](generating-observable-physics/quantum-entanglement.md)
