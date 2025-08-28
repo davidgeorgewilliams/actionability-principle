@@ -71,11 +71,11 @@ Motivated by the quantum pressure term $$\frac{\kappa}{2}(\nabla\sqrt{\rho})^2$$
 
 where:
 
-$$\mathbf{T}_\kappa(\rho) = \kappa\left( \nabla\sqrt{\rho}\otimes\nabla\sqrt{\rho} - \tfrac{1}{2} |\nabla\sqrt{\rho}|^2\mathbf{I} - \sqrt{\rho}\nabla^2\sqrt{\rho} \right) \tag{K}$$
+<p align="center"><span class="math">\mathbf{T}_\kappa(\rho) = \kappa\left( \nabla\sqrt{\rho}\otimes\nabla\sqrt{\rho} - \tfrac{1}{2} |\nabla\sqrt{\rho}|^2\mathbf{I} - \sqrt{\rho}\nabla^2\sqrt{\rho} \right) \tag{K}</span></p>
 
 Taking curl:
 
-$$\partial_t \omega_\kappa = \nabla\times( v_\kappa\times\omega_\kappa ) + \nu\Delta \omega_\kappa + \nabla\times\big( -\nabla\cdot \mathbf{T}\kappa(\rho\kappa) \big) \tag{V$_\kappa$}$$
+<p align="center"><span class="math">\partial_t \omega_\kappa = \nabla\times( v_\kappa\times\omega_\kappa ) + \nu\Delta \omega_\kappa + \nabla\times\big( -\nabla\cdot \mathbf{T}\kappa(\rho\kappa) \big) \tag{V$_\kappa$}</span></p>
 
 **Clay admissibility rule**: All claims about Navier-Stokes are made after $$\kappa\to0$$. Every estimate is **uniform in** $$\kappa$$.
 
@@ -83,19 +83,19 @@ $$\partial_t \omega_\kappa = \nabla\times( v_\kappa\times\omega_\kappa ) + \nu\D
 
 **Energy**: For smooth solutions of (NS)$$_\kappa$$:
 
-$$\frac{d}{dt}\frac{1}{2}\int |v_\kappa|^2 dx + \nu\int |\nabla v_\kappa|^2 dx = -\int \mathbf{T}\kappa(\rho\kappa):\nabla v_\kappa dx \tag{E$_\kappa$}$$
+<p align="center"><span class="math">\frac{d}{dt}\frac{1}{2}\int |v_\kappa|^2 dx + \nu\int |\nabla v_\kappa|^2 dx = -\int \mathbf{T}\kappa(\rho\kappa):\nabla v_\kappa dx \tag{E$_\kappa$}</span></p>
 
 Design $$\mathbf{T}_\kappa$$ so RHS $$\leq 0$$.
 
 **Enstrophy**: With $$R_\kappa := \int \omega_\kappa\cdot \nabla\times\big( -\nabla\cdot \mathbf{T}\kappa(\rho\kappa) \big) dx$$:
 
-$$\frac{d}{dt},\frac{1}{2}\int |\omega_\kappa|^2 dx = -\int \omega_\kappa\cdot[(\omega_\kappa\cdot\nabla)v_\kappa] dx - \nu\int |\nabla\omega_\kappa|^2 dx + R_\kappa \tag{EN$_\kappa$}$$
+<p align="center"><span class="math">\frac{d}{dt},\frac{1}{2}\int |\omega_\kappa|^2 dx = -\int \omega_\kappa\cdot[(\omega_\kappa\cdot\nabla)v_\kappa] dx - \nu\int |\nabla\omega_\kappa|^2 dx + R_\kappa \tag{EN$_\kappa$}</span></p>
 
 Ensure $$R_\kappa \leq 0$$ or controlled by dissipated quantities.
 
 ### 7. Uniform-in-κ Target
 
-$$||v_\kappa||{L^\infty}_{(0,T;H^1)} + ||\nabla v\kappa||{L^2}_{(0,T;H^1)} + \int_0^T ||\nabla v\kappa||_{L^\infty}dt \leq C(T)\text{ independent of }\kappa \tag{U}$$
+<p align="center"><span class="math">||v_\kappa||{L^\infty}_{(0,T;H^1)} + ||\nabla v\kappa||{L^2}_{(0,T;H^1)} + \int_0^T ||\nabla v\kappa||_{L^\infty}dt \leq C(T)\text{ independent of }\kappa \tag{U}</span></p>
 
 **Theorem (Conditional Clay-Admissible)**: Let $$v_\kappa$$ solve (NS)$$_\kappa$$ on $$[0,T]$$ with $$v_0 \in H^s$$, $$s > 5/2$$. If (U) holds, then there exists a subsequence (not relabeled) and a limit $$v$$ such that
 
