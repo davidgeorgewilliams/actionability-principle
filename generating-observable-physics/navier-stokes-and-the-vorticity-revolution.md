@@ -8,7 +8,7 @@ description: Clay-Ready Framework
 
 Let $$\Omega \in {\mathbb{R}^3, \mathbb{T}^3}$$. Consider incompressible Navier-Stokes (NS):
 
-<p align="center"><span class="math">\partial_t v + (v\cdot\nabla)v = -\nabla p + \nu,\Delta v,\qquad \nabla\cdot v = 0,\qquad v(\cdot,0)=v_0,\ \nabla\cdot v_0=0</span></p>
+<p align="center"><span class="math">\partial_t v + (v\cdot\nabla)v = -\nabla p + \nu\Delta v,\qquad \nabla\cdot v = 0,\qquad v(\cdot,0)=v_0,\ \nabla\cdot v_0=0</span></p>
 
 with $$\nu>0$$. We take either rapidly decaying data on $$\mathbb{R}^3$$ or mean-zero periodic data on $$\mathbb{T}^3$$, with $$v_0\in H^{s}(\Omega)$$, $$s>5/2$$.
 
