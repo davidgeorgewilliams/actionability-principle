@@ -14,7 +14,7 @@ with $$\nu>0$$. We take either rapidly decaying data on $$\mathbb{R}^3$$ or mean
 
 Denote by $$P$$ the Helmholtz-Leray projector onto divergence-free vector fields. The projected form is:
 
-<p align="center"><span class="math">\partial_t v + P[(v\cdot\nabla)v] = \nu,\Delta v \tag{NS}</span></p>
+<p align="center"><span class="math">\partial_t v + P[(v\cdot\nabla)v] = \nu\Delta v \tag{NS}</span></p>
 
 Define vorticity $$\omega := \nabla\times v$$. Using $$\nabla\cdot v=0$$, the vorticity equation is:
 
@@ -49,7 +49,7 @@ where $$\mathcal{K}$$ is the **tensor** Biot-Savart operator (not a scalar Coulo
 
 Enstrophy $$\mathcal{E}(t) = \tfrac{1}{2}\int |\omega|^2dx$$ evolves by:
 
-<p align="center"><span class="math">\frac{d}{dt},\mathcal{E}(t) = -\int \omega\cdot[(\omega\cdot\nabla)v]dx - \nu\int |\nabla\omega|^2 dx \tag{EN}</span></p>
+<p align="center"><span class="math">\frac{d}{dt}\mathcal{E}(t) = -\int \omega\cdot[(\omega\cdot\nabla)v]dx - \nu\int |\nabla\omega|^2 dx \tag{EN}</span></p>
 
 **BKM continuation criterion**: A smooth solution continues past $$T>0$$ provided:
 
