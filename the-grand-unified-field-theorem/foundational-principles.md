@@ -20,9 +20,9 @@ All physical phenomena arise from the evolution of two real-valued fields:
   * Physical meaning: Energy flux through $$(D-1)$$-dimensional surfaces
   * Dimensions: $$[\mathbf{j}] = \frac{[E]}{[L]^{D-1} \times [T]} = EL^{-(D-1)}T^{-1}$$
 
-These fields satisfy the continuity equation (energy conservation):
+These fields satisfy the continuity equation (energy conservation):&#x20;
 
-<p align="center"> <span class="math">\frac{\partial \rho}{\partial T} + \nabla \cdot \mathbf{j} = 0</span></p>
+<p align="center"><span class="math">\frac{\partial \rho}{\partial T} + \nabla \cdot \mathbf{j} = 0</span></p>
 
 **Dimensional verification:**
 
@@ -37,21 +37,33 @@ The evolution of these fields is governed by the principle of stationary action 
 
 **Dimensional analysis:**
 
-For the action $$\mathcal{A}$$:
+The action $$\mathcal{A} = \int dT d^D X \mathcal{L}$$ where $$\mathcal{L}$$ is the Lagrangian density:
 
 * $$[\mathcal{A}] = ET$$ (energy × time)
+* $$[\mathcal{L}] = EL^{-D}$$ (energy density)
 
-For the first equation:
+For functional derivatives, by definition:&#x20;
 
-* Left side: $$\left[\frac{\delta \mathcal{A}}{\delta \rho}\right] = \frac{ET}{EL^{-D}} = L^DT$$
+<p align="center"><span class="math">\delta \mathcal{A} = \int dT d^D X \frac{\delta \mathcal{A}}{\delta \rho(\mathbf{X},T)} \delta \rho(\mathbf{X},T)</span></p>
+
+This requires:
+
+* $$\left[\frac{\delta \mathcal{A}}{\delta \rho}\right] = \frac{[\mathcal{L}]}{[\rho]} = \frac{EL^{-D}}{EL^{-D}} = 1$$ (dimensionless)
+* $$\left[\frac{\delta \mathcal{A}}{\delta \mathbf{j}}\right] = \frac{[\mathcal{L}]}{[\mathbf{j}]} = \frac{EL^{-D}}{EL^{-(D-1)}T^{-1}} = L^{-1}T$$
+
+For the dissipation coefficients:
+
+First equation:
+
+* Left side: $$\left[\frac{\delta \mathcal{A}}{\delta \rho}\right] = 1$$
 * Right side: $$[\Gamma] \times \frac{EL^{-D}}{T} = [\Gamma] \times EL^{-D}T^{-1}$$
-* Therefore: $$[\Gamma] = \frac{L^DT}{EL^{-D}T^{-1}} = L^{2D}T^2E^{-1}$$
+* Therefore: $$[\Gamma] = \frac{1}{EL^{-D}T^{-1}} = E^{-1}L^{D}T$$
 
-For the second equation:
+Second equation:
 
-* Left side: $$\left[\frac{\delta \mathcal{A}}{\delta \mathbf{j}}\right] = \frac{ET}{EL^{-(D-1)}T^{-1}} = L^{D-1}T^2$$
+* Left side: $$\left[\frac{\delta \mathcal{A}}{\delta \mathbf{j}}\right] = L^{-1}T$$
 * Right side: $$[\Lambda] \times \frac{EL^{-(D-1)}T^{-1}}{T} = [\Lambda] \times EL^{-(D-1)}T^{-2}$$
-* Therefore: $$[\Lambda] = \frac{L^{D-1}T^2}{EL^{-(D-1)}T^{-2}} = L^{2(D-1)}T^4E^{-1}$$
+* Therefore: $$[\Lambda] = \frac{L^{-1}T}{EL^{-(D-1)}T^{-2}} = E^{-1}L^{D-2}T^{3}$$
 
 The dissipation coefficients $$\Gamma$$ and $$\Lambda$$ are functionals that encode energy dissipation mechanisms in the master space.
 
@@ -61,27 +73,29 @@ The fundamental laws maintain their form across all energy scales through renorm
 
 <p align="center"><span class="math">\beta_i = \mu \frac{\partial g_i}{\partial \mu}</span></p>
 
-where $$\mu$$ is the energy scale (dimensions: $$[\mu] = EL^{-D}$$) and $$g_i$$ are dimensionless coupling constants.
+where $$\mu$$ is the energy scale (dimensions: $$[\mu] = E$$) and $$g_i$$ are dimensionless coupling constants.
 
 #### Summary of Fundamental Dimensions
 
 All quantities are expressed using only three fundamental dimensions: **Energy (E)**, **Length (L)**, and **Time (T)**.
 
-| Quantity                | Symbol          | Dimensions              | Physical Meaning             |
-| ----------------------- | --------------- | ----------------------- | ---------------------------- |
-| Energy density          | $$\rho$$        | $$EL^{-D}$$             | Energy per unit $$D$$-volume |
-| Energy current          | $$\mathbf{j}$$  | $$EL^{-(D-1)}T^{-1}$$   | Energy flux density          |
-| Action                  | $$\mathcal{A}$$ | $$ET$$                  | Integrated Lagrangian        |
-| Dissipation coefficient | $$\Gamma$$      | $$L^{2D}T^2E^{-1}$$     | Energy density dissipation   |
-| Dissipation coefficient | $$\Lambda$$     | $$L^{2(D-1)}T^4E^{-1}$$ | Energy current dissipation   |
-| Energy scale            | $$\mu$$         | $$EL^{-D}$$             | Renormalization scale        |
+| Quantity                | Symbol          | Dimensions             | Physical Meaning             |
+| ----------------------- | --------------- | ---------------------- | ---------------------------- |
+| Energy density          | $$\rho$$        | $$EL^{-D}$$            | Energy per unit $$D$$-volume |
+| Energy current          | $$\mathbf{j}$$  | $$EL^{-(D-1)}T^{-1}$$  | Energy flux density          |
+| Lagrangian density      | $$\mathcal{L}$$ | $$EL^{-D}$$            | Energy density of the action |
+| Action                  | $$\mathcal{A}$$ | $$ET$$                 | Integrated Lagrangian        |
+| Dissipation coefficient | $$\Gamma$$      | $$E^{-1}L^{D}T$$       | Energy density dissipation   |
+| Dissipation coefficient | $$\Lambda$$     | $$E^{-1}L^{D-2}T^{3}$$ | Energy current dissipation   |
+| Renormalization scale   | $$\mu$$         | $$E$$                  | Energy scale for RG flow     |
 
 #### Natural Units
 
 In natural units where $$c = 1$$ (speed of light) and $$\hbar = 1$$ (reduced Planck constant):
 
 * Length and time become related: $$[L] = [T]$$
-* Energy and inverse length become related: $$[E] = [L^{-1}]$$
+* Energy and inverse length become related: $$[E] = [L^{-1}] = [T^{-1}]$$
+* **The action becomes dimensionless**: $$[\mathcal{A}] = ET = 1$$
 * The energy density simplifies to: $$[\rho] = [L^{-(D+1)}]$$
 
-This reveals the geometric nature of energy in the master space.
+This reveals the geometric nature of energy in the master space, where all physical quantities can be expressed in terms of length scales alone.
